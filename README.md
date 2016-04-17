@@ -4,7 +4,8 @@
 This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
 I am trying to create a similar Guide for all the people out there.  
 And I want to say a big thank to all people on CE forum for working together on a great CE-Table.  
-If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).
+If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).  
+Also feel free to make a "Pull-Request" or use the "Issues" system, if you want me to add or change something.
 
 ## General
 ###Cheat Engine
