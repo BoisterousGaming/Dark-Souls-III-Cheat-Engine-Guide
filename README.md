@@ -85,7 +85,7 @@ Set your item discovery to 3000.
 ##### Noclip
 Allow you walking through walls.
 
-## Feature Explanation
+## Usage Explanation
 
 #### Weapon upgrades and infusions represented through ID
 
