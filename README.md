@@ -2,7 +2,7 @@
 
 ## Introduction
 This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
-I am trying to create a similar Guide for all the people out there.  
+I am trying to create a similar Guide for all people out there.  
 And I want to say a big thank to all people on CE forum for working together on a great CE-Table.  
 If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).  
 Also feel free to make a "Pull-Request" or use the "Issues" system, if you want me to add or change something.
@@ -55,34 +55,34 @@ But there are very properbly a similar save-game-check system.
 
 ## Feature Explanation
 
-###### Unlimited Health/HP (Hit Points)
+##### Unlimited Health/HP (Hit Points)
 Selfexplained. You can only die from gravity death.
 
-###### Unlimited FP (Focus Points)
+##### Unlimited FP (Focus Points)
 Selfexplained. Your Focus Points (blue bar) will stay on max. Have fun with spell spam. :)
 
-###### Unlimited Stamina 
+##### Unlimited Stamina 
 Selfexplained. Run forest, run and roll. :P
 
-###### Unlimited Consumables
+##### Unlimited Consumables
 Selfexplained. Your usable items never run out.
 
-###### Unlimited Durabilit
+##### Unlimited Durabilit
 Selfexplained. Your equipment never break.
 
-###### No Reload
+##### No Reload
 No need to load bolts in crossbow.
 
-###### No Equip Load 
+##### No Equip Load 
 Change your current equipment load to 0.
 
-###### Unlimited Weapon Durability
+##### Unlimited Weapon Durability
 Selfexplained. Weapons don´t lose any durability.
 
-###### Item Discovery 
+##### Item Discovery 
 Set your item discovery to 3000.
 
-###### Noclip
+##### Noclip
 Allow you walking through walls.
 
 ## Feature Explanation
