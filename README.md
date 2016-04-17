@@ -39,7 +39,7 @@ http://www.cheatengine.org/
   * [Weapons](#weapons-2831) (2831)
   * [Protector](#protector-347)  (347)
   * [Accessory](#accessory-171) (171)
-  * [Magic](#magic-172) (101)
+  * [Magic](#magic-101) (101)
 * [Credits](#credits)
 
 ## FAQ
