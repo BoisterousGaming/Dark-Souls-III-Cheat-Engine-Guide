@@ -79,7 +79,7 @@ Change your current equipment load to 0.
 Selfexplained. Weapons don´t lose any durability.
 
 ###### Item Discovery 
-Set your item discovery to 99999.
+Set your item discovery to 3000.
 
 ###### Noclip
 Allow you walking through walls.
