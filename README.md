@@ -37,7 +37,7 @@ http://www.cheatengine.org/
 * Item IDs
   * [Goods](#goods-407) (407)
   * [Weapons](#weapons-2831) (2831)
-  * [Protector](#protector-1956)  (1956)
+  * [Protector](#protector-347)  (347)
   * [Accessory](#accessory-171) (171)
   * [Magic](#magic-172) (101)
 * [Credits](#credits)
