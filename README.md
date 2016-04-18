@@ -15,6 +15,7 @@ http://www.cheatengine.org/
 
 * [Started by Phokz, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191) (see Credits)
 * [Zanzer´s Table](http://forum.cheatengine.org/viewtopic.php?p=5661102#5661102)
+* [Cielos´s Table](http://forum.cheatengine.org/viewtopic.php?p=5661561#5661561)
 
 ## Content
 
