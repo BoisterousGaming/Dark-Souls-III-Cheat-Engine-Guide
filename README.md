@@ -92,6 +92,7 @@ If you got a softban, it's possible to transfer you save game to another account
 8. Now there will be a new folder.  
 9. Copy your old save file (DS30000.sl2) to the new folder and replace.  
 10. Now go back to you Dark Souls 3 window and load your new character.  It's will be your old one from your old save.  
+**But remember! The stuff you were banned for, could still be in your save game!**
 
 #### Cheat Engine debugger crashing the game
 
