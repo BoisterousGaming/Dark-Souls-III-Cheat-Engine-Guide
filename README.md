@@ -25,6 +25,7 @@ http://www.cheatengine.org/
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
  * [Save game transfer](#save-game-transfer)
+ * Cheat Engine debugger crashing the game
 * Feature Explanation
   * [Unlimited Health/HP](#unlimited-healthhp-hit-points)
   * [Unlimited FP](#unlimited-fp-focus-points)
@@ -91,6 +92,11 @@ If you got a softban, it's possible to transfer you save game to another account
 8. Now there will be a new folder.  
 9. Copy your old save file (DS30000.sl2) to the new folder and replace.  
 10. Now go back to you Dark Souls 3 window and load your new character.  It's will be your old one from your old save.  
+
+#### Cheat Engine debugger crashing the game
+
+Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use VEH Debugger"
+[Screenshot](http://imgur.com/a/t0826)
 
 ## Feature Explanation
 
