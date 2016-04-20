@@ -95,6 +95,7 @@ If you got a softban, it's possible to transfer you save game to another account
 
 #### Cheat Engine debugger crashing the game
 
+If the game crash each time you attaching a CE debugger to it, use another one.
 Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use VEH Debugger"  
 [Screenshot](http://imgur.com/a/t0826)
 
