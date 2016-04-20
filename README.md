@@ -21,7 +21,7 @@ http://www.cheatengine.org/
 ## Content
 
 * FAQ
- * Message: [CAUTION] INVALID GAME DATA HAS BEEN DETECTED  
+ * [Message: [CAUTION] INVALID GAME DATA HAS BEEN DETECTED  ](#message-caution-invalid-game-data-has-been-detected)
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
 * Feature Explanation
