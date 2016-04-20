@@ -40,7 +40,7 @@ http://www.cheatengine.org/
   * ...
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
-  * How to spawn/swap items with "Last Pickup Item Highlighted"
+  * [How to spawn/swap items with "Last Pickup Item Highlighted"](#how-to-spawnswap-items-with-last-pickup-item-highlighted)
 * Item IDs
   * [Goods](#goods-407) (407)
   * [Weapons](#weapons-2831) (2831)
