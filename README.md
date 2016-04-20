@@ -24,6 +24,7 @@ http://www.cheatengine.org/
  * [Message: [CAUTION] INVALID GAME DATA HAS BEEN DETECTED  ](#message-caution-invalid-game-data-has-been-detected)
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
+ * [Save game transfer]()
 * Feature Explanation
   * [Unlimited Health/HP](#unlimited-healthhp-hit-points)
   * [Unlimited FP](#unlimited-fp-focus-points)
@@ -76,6 +77,20 @@ Generally there is an anti-cheat system!
 
 At the moment we got no information about soft-bans in DS3.  
 But there are very properbly a similar save-game-check system.
+
+#### Save game transfer
+
+If you got a softban, it's possible to transfer you save game to another account.
+1. Go to C:\Users\\(user name)\\AppData\Roaming\DarkSoulsIII, there will be a folder with hex code as name.
+2. Make a backup of the folder or notice the name.
+3. Go to your new account and start a new game.
+4. Create a character and spawn.
+5. Quit back to main menu.
+6. Opne the "Load" menu. Where you can see you created character.
+7. Use alt+tab to left the game window.
+8. Now there will be a new folder.
+9. Copy your old save file (DS30000.sl2) to the new folder and replace.
+10. Now go back to you Dark Souls 3 window and load your new character.  It's will be your old one from your old save.
 
 ## Feature Explanation
 
