@@ -62,7 +62,7 @@ Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbo
 
 In case you want to play safe online, there are two recommended methods.  
 1. Make a family share account and play there. DON’T use Cheat Engine, don’t even start it. Wait until we got more information about the message.  
-2. Delete all your Characters, than exit the game and go to C:\Users\(Your-username)\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. Also DON’T use Cheat Engine anymore!
+2. Delete all your Characters, than exit the game and go to C:\Users\\(Your-username)\\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. Also DON’T use Cheat Engine anymore!
 
 You can also find some information in [this](http://steamcommunity.com/app/374320/discussions/0/361787186424251460/) steam community thread.
 
