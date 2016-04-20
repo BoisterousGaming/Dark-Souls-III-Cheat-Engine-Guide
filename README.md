@@ -5,8 +5,8 @@ This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat
 I am trying to create a similar Guide for all people out there.  
 And I want to say a big thank to all people on CE forum for working together on a great CE-Table.  
 If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).  
-Also feel free to make a "Pull-Request" or use the "Issues" system, if you want me to add or change something.  
-I also would be happy, if someone would report my grammar issues.
+If you want me to add or change something in this guide, use the "Issues" system or make a "Pull-Request".  
+I am also happy for any grammar issues reports.
 
 ## General
 ###Cheat Engine
