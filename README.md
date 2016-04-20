@@ -35,6 +35,7 @@ http://www.cheatengine.org/
   * [Unlimited Weapon Durability](#unlimited-weapon-durability)
   * [Item Discovery](#item-discovery)
   * [Noclip](#noclip)
+  * ...
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
 * Item IDs
@@ -106,6 +107,10 @@ Set your item discovery to 3000.
 
 ##### Noclip
 Allow you walking through walls.
+
+##### ...
+
+WIP, coming soon
 
 ## Usage Explanation
 
