@@ -52,7 +52,7 @@ http://www.cheatengine.org/
 >[CAUTION] INVALID GAME DATA HAS BEEN DETECTED  
 Invalid game data has been detected on your account. The use of invalid data during gameplay is a violation of the online service end user license agreement. You will be penalized if you continue playing with invalid data. Please take this opportunity to remove the invalid data from your system/account and discontinue further use.
 
-This message was received by many players. Most of CE-Table users got this message but also people who has never cheated. Players who have played in offline mode, have also got the message.  
+This message was received by many players. Most of CE table users got this message but also people who have never cheated. Players who have played in offline mode, have also got the message.  
 At the moment we have no clearly informations about it! It could be just a prank to scare cheaters or an issue. It could also be a warning, that you will get soft-banned, if you will be caught playing online with this save game until the next scan wave.
 
 If you want to keep cheating in offline mode, the safest way is to disable your internet completely.  
@@ -70,6 +70,7 @@ You can also find some information in [this](http://steamcommunity.com/app/37432
 #### Anti-Cheat
 
 At the moment we only know, that there are some functions that checks and overwrite some hacked code.
+Generally there is an anti-cheat system!
 
 #### Soft-ban
 
