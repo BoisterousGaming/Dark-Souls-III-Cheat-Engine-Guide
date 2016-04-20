@@ -25,7 +25,7 @@ http://www.cheatengine.org/
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
  * [Save game transfer](#save-game-transfer)
- * Cheat Engine debugger crashing the game
+ * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
 * Feature Explanation
   * [Unlimited Health/HP](#unlimited-healthhp-hit-points)
   * [Unlimited FP](#unlimited-fp-focus-points)
@@ -95,7 +95,7 @@ If you got a softban, it's possible to transfer you save game to another account
 
 #### Cheat Engine debugger crashing the game
 
-Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use VEH Debugger"
+Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use VEH Debugger"  
 [Screenshot](http://imgur.com/a/t0826)
 
 ## Feature Explanation
