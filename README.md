@@ -5,7 +5,8 @@ This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat
 I am trying to create a similar Guide for all people out there.  
 And I want to say a big thank to all people on CE forum for working together on a great CE-Table.  
 If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).  
-Also feel free to make a "Pull-Request" or use the "Issues" system, if you want me to add or change something.
+Also feel free to make a "Pull-Request" or use the "Issues" system, if you want me to add or change something.  
+I also would be happy, if someone would report my grammar issues.
 
 ## General
 ###Cheat Engine
@@ -20,6 +21,7 @@ http://www.cheatengine.org/
 ## Content
 
 * FAQ
+ * Message: [CAUTION] INVALID GAME DATA HAS BEEN DETECTED  
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
 * Feature Explanation
@@ -44,6 +46,24 @@ http://www.cheatengine.org/
 * [Credits](#credits)
 
 ## FAQ
+
+#### Message: [CAUTION] INVALID GAME DATA HAS BEEN DETECTED  
+>[CAUTION] INVALID GAME DATA HAS BEEN DETECTED  
+Invalid game data has been detected on your account. The use of invalid data during gameplay is a violation of the online service end user license agreement. You will be penalized if you continue playing with invalid data. Please take this opportunity to remove the invalid data from your system/account and discontinue further use.
+
+This message was received by many players. Most of CE-Table users got this message but also people who has never cheated. Players who have played in offline mode, have also got the message.  
+At the moment we have no clearly informations about it! It could be just a prank to scare cheaters or an issue. It could also be a warning, that you will get soft-banned, if you will be caught playing online with this save game until the next scan wave.
+
+If you want to keep cheating in offline mode, the safest way is to disable your internet completely.  
+You can easily [disable your network adapter](https://www.youtube.com/watch?v=6LSKdb9dLvM).  
+Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbound and Outbound Firewall rules](https://www.youtube.com/watch?v=tTvI-ZF_lXo).
+
+
+In case you want to play safe online, there are two recommended methods.
+1. Make a family share account and play there. DON’T use Cheat Engine, don’t even start it. Wait until we got more information about the message.
+2. Delete all your Characters, than exit the game and go to C:\Users\(Your-username)\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. Also DON’T use Cheat Engine anymore!
+
+
 
 #### Anti-Cheat
 
