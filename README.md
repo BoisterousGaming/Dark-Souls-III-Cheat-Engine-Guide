@@ -40,6 +40,7 @@ http://www.cheatengine.org/
   * ...
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
+  * How to spawn/swap items with "Last Pickup Item Highlighted"
 * Item IDs
   * [Goods](#goods-407) (407)
   * [Weapons](#weapons-2831) (2831)
@@ -164,6 +165,10 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 +1300 Raw  
 +1400 Blessed  
 +1500 Hollow  
+
+#### How to spawn/swap items with "Last Pickup Item Highlighted"
+
+I have made a [video](https://www.youtube.com/watch?v=Plh5I9sdMio) for this.
 
 ## Item IDs
 
