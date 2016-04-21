@@ -40,7 +40,7 @@ http://www.cheatengine.org/
   * [Noclip](#noclip)
   * [Access All Bonfires](#access-all-bonfires)
   * [Teleport](#teleport)
-  * [100% Drop Chance]()
+  * [100% Drop Chance](#100-drop-chance)
   * [Session Info](#session-info)
   * ...
 * Usage Explanation
