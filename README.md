@@ -150,6 +150,8 @@ WIP, coming soon
 
 #### Weapon upgrades and infusions represented through ID
 
+[My video tutorial](https://youtu.be/3hWiPozCTYo)
+
 [Quote from Zanzer](http://forum.cheatengine.org/viewtopic.php?p=5662748#5662748):
 >Here's a brief explanation about how weapon upgrades and infusions are represented in memory.
 I will be using decimal notation (not hex) because you will need to use math.
