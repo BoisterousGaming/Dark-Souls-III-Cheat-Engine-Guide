@@ -108,6 +108,10 @@ Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use 
 
 ## Feature Explanation
 
+##### Unlimited iFrames
+Aka invincibility. While you are rolling you are invincibility for few seconds or "frames".
+Thereof the term "iframe". So this feature makes you invincibility for any kind of attacks.
+
 ##### Unlimited Health/HP (Hit Points)
 Selfexplained. You can only die from gravity death.
 
@@ -144,9 +148,14 @@ Unlock all bonfire.
 ##### Teleport
 Show your current position and can be changed to teleport your character to specified cordinations.
 
+##### 100% Drop Chance
+
+Each item an enemy can drop, will drop from him.
+Here is an [example](http://images.akamai.steamusercontent.com/ugc/279597038216419246/347364D5B05AB31A2371F4A51AEFFEE623ACB6D9/) with Darkwraiths.
+
 ##### Session Info
 
-WIP, coming soon
+Information about all players in the current session.
 
 ## Usage Explanation
 
