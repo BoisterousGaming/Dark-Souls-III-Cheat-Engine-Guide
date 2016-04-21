@@ -37,6 +37,9 @@ http://www.cheatengine.org/
   * [Unlimited Weapon Durability](#unlimited-weapon-durability)
   * [Item Discovery](#item-discovery)
   * [Noclip](#noclip)
+  * [Access All Bonfires](#access-all-bonfires)
+  * [Teleport](#teleport)
+  * [Session Info](#session-info)
   * ...
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
@@ -133,7 +136,13 @@ Set your item discovery to 3000.
 ##### Noclip
 Allow you walking through walls.
 
-##### ...
+##### Access All Bonfires
+Unlock all bonfire.
+
+##### Teleport
+Show your current position and can be changed to teleport your character to specified cordinations.
+
+##### Session Info
 
 WIP, coming soon
 
