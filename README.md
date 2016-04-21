@@ -27,6 +27,7 @@ http://www.cheatengine.org/
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
 * Feature Explanation
+  * [Unlimited iFrames](#unlimited-iframes)
   * [Unlimited Health/HP](#unlimited-healthhp-hit-points)
   * [Unlimited FP](#unlimited-fp-focus-points)
   * [Unlimited Stamina](#unlimited-stamina)
@@ -39,6 +40,7 @@ http://www.cheatengine.org/
   * [Noclip](#noclip)
   * [Access All Bonfires](#access-all-bonfires)
   * [Teleport](#teleport)
+  * [100% Drop Chance]()
   * [Session Info](#session-info)
   * ...
 * Usage Explanation
