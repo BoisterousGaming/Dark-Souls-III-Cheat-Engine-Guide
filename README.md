@@ -116,7 +116,7 @@ Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use 
 [Screenshot](http://imgur.com/a/t0826)
 
 #### Offline mode
-If you activate the "Offline mode" in your game settings, the save game will still be synced with the server so long as you got an internet connecntion.  
+If you activate the "Offline mode" in your game settings, the save game will still be synced with the server so long as you got an internet connection.  
 If you want to cheat in offline mode, you have to disable your internet completely.  
 You can easily [disable your network adapter](https://www.youtube.com/watch?v=6LSKdb9dLvM).  
 Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbound and Outbound Firewall rules](https://www.youtube.com/watch?v=tTvI-ZF_lXo).
