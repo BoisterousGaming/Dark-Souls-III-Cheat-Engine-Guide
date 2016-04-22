@@ -28,7 +28,7 @@ http://www.cheatengine.org/
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
- * [VAC - Valve Anti Cheat](#)
+ * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
 * Feature Explanation
   * [Unlimited iFrames](#unlimited-iframes)
   * [Unlimited Health/HP](#unlimited-healthhp-hit-points)
