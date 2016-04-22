@@ -63,7 +63,7 @@ http://www.cheatengine.org/
 Invalid game data has been detected on your account. The use of invalid data during gameplay is a violation of the online service end user license agreement. You will be penalized if you continue playing with invalid data. Please take this opportunity to remove the invalid data from your system/account and discontinue further use.
 
 This message was received by many players. Most of CE table users got this message but also people who has never cheated. Players who have played in offline mode, have also got the message.  
-On 20. April all who got this message were banned and got [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
+On 20. April all who got this message were [banned](#message-caution-you-have-been-penalized).
 
 In case you want to play safe online, there are two recommended methods.  
 1. Make a family share account and play there. DON’T use Cheat Engine, don’t even start it. Wait until we got more information about the message.  
