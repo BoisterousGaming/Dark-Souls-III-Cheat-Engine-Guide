@@ -14,9 +14,9 @@ http://www.cheatengine.org/
 
 ###### Tables on the CE Forum: 
 
-* [Started by Phokz, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191) (see [Credits](#credits))
-* [Zanzer´s Table](http://forum.cheatengine.org/viewtopic.php?p=5661102#5661102)
-* [Cielos´s Table](http://forum.cheatengine.org/viewtopic.php?p=5661561#5661561)
+* [Phokz's table, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191) (see [Credits](#credits))
+* [Zanzer's Table](http://forum.cheatengine.org/viewtopic.php?p=5661102#5661102)
+* [Cielos's Table](http://forum.cheatengine.org/viewtopic.php?p=5661561#5661561)
 
 ## Content
 
