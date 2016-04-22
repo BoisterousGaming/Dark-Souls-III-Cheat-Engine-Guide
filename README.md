@@ -27,6 +27,7 @@ http://www.cheatengine.org/
  * [Soft-ban](#soft-ban)
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
+ * [Offline mode](#offline-mode)
 * Feature Explanation
   * [Unlimited iFrames](#unlimited-iframes)
   * [Unlimited Health/HP](#unlimited-healthhp-hit-points)
@@ -61,18 +62,14 @@ http://www.cheatengine.org/
 >[CAUTION] INVALID GAME DATA HAS BEEN DETECTED  
 Invalid game data has been detected on your account. The use of invalid data during gameplay is a violation of the online service end user license agreement. You will be penalized if you continue playing with invalid data. Please take this opportunity to remove the invalid data from your system/account and discontinue further use.
 
-This message was received by many players. Most of CE table users got this message but also people who have never cheated. Players who have played in offline mode, have also got the message.  
+This message was received by many players. Most of CE table users got this message but also people who has never cheated. Players who have played in offline mode, have also got the message.  
 On 20. April all who got this message were banned and got [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
-
-
-If you want to keep cheating in offline mode, the safest way is to disable your internet completely.  
-You can easily [disable your network adapter](https://www.youtube.com/watch?v=6LSKdb9dLvM).  
-Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbound and Outbound Firewall rules](https://www.youtube.com/watch?v=tTvI-ZF_lXo).
-
 
 In case you want to play safe online, there are two recommended methods.  
 1. Make a family share account and play there. DON’T use Cheat Engine, don’t even start it. Wait until we got more information about the message.  
 2. Delete all your Characters, than exit the game and go to C:\Users\\(Your-username)\\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. Also DON’T use Cheat Engine anymore!
+
+Also see informations about the [Offline mode](#offline-mode).
 
 You can also find some information in [this](http://steamcommunity.com/app/374320/discussions/0/361787186424251460/) steam community thread.
 
@@ -117,6 +114,12 @@ If you got a softban, it's possible to transfer you save game to another account
 If the game crash each time you attaching a CE debugger to it, use another one.
 Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use VEH Debugger"  
 [Screenshot](http://imgur.com/a/t0826)
+
+#### Offline mode
+If you activate the "Offline mode" in your game settings, the save game will still be synced with the server so long as you got an internet connecntion.  
+If you want to cheat in offline mode, you have to disable your internet completely.  
+You can easily [disable your network adapter](https://www.youtube.com/watch?v=6LSKdb9dLvM).  
+Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbound and Outbound Firewall rules](https://www.youtube.com/watch?v=tTvI-ZF_lXo).
 
 ## Feature Explanation
 
