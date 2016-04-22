@@ -29,6 +29,7 @@ http://www.cheatengine.org/
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
  * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
+ * [Features stop working after a while](#features-stop-working-after-a-while)
 * Feature Explanation
   * [Unlimited iFrames](#unlimited-iframes)
   * [Unlimited Health/HP](#unlimited-healthhp-hit-points)
@@ -90,7 +91,6 @@ Sources and more infos:
 #### Anti-Cheat
 
 At the moment we only know, that there are some functions that checks and overwrite some hacked code.
-Generally there is an anti-cheat system!
 
 #### Soft-ban
 
@@ -126,6 +126,9 @@ Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbo
 
 #### VAC - Valve Anti Cheat
 There is no VAC in Dark Souls 3!
+
+#### Features stop working after a while
+This is the work of the [Anti-Cheat](#anti-cheat) system. At the moment you need the Anti-AntiCheat feature to fix this problem.  
 
 ## Feature Explanation
 
