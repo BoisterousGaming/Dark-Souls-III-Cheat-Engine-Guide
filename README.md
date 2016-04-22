@@ -21,7 +21,8 @@ http://www.cheatengine.org/
 ## Content
 
 * FAQ
- * [Message: [CAUTION] INVALID GAME DATA HAS BEEN DETECTED  ](#message-caution-invalid-game-data-has-been-detected)
+ * [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected)
+ * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
  * [Save game transfer](#save-game-transfer)
@@ -61,7 +62,8 @@ http://www.cheatengine.org/
 Invalid game data has been detected on your account. The use of invalid data during gameplay is a violation of the online service end user license agreement. You will be penalized if you continue playing with invalid data. Please take this opportunity to remove the invalid data from your system/account and discontinue further use.
 
 This message was received by many players. Most of CE table users got this message but also people who have never cheated. Players who have played in offline mode, have also got the message.  
-At the moment we have no clearly informations about it! It could be just a prank to scare cheaters or an issue. It could also be a warning, that you will get soft-banned, if you will be caught playing online with this save game until the next scan wave.
+On 20. April all who got this message were banned and got [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
+
 
 If you want to keep cheating in offline mode, the safest way is to disable your internet completely.  
 You can easily [disable your network adapter](https://www.youtube.com/watch?v=6LSKdb9dLvM).  
@@ -74,6 +76,16 @@ In case you want to play safe online, there are two recommended methods.
 
 You can also find some information in [this](http://steamcommunity.com/app/374320/discussions/0/361787186424251460/) steam community thread.
 
+#### Message: [CAUTION] YOU HAVE BEEN PENALIZED
+>[CAUTION] YOU HAVE BEEN PENALIZED 
+Invalid game data still remains present on your account; as such your account has now been penalized to restrict your online experience. The use of invalid data during gameplay is a violation of the online service end user license agreement.
+
+All who got the [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message, were banned on 20. April 2016.
+Deleting characters hasn't helped. Now some players have send e-mails to Bandai support, we have to wait for official informations.
+
+Sources and more infos:
+[Invalid Data / You have been penalized - Possible causes, some debunked](https://steamcommunity.com/app/374320/discussions/0/357284131785315076)  
+[Platform for those affected by INVALID GAME DATA](https://steamcommunity.com/app/374320/discussions/0/357284131785315076)
 
 #### Anti-Cheat
 
