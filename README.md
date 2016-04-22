@@ -128,8 +128,8 @@ There is no VAC in Dark Souls 3!
 ## Feature Explanation
 
 ##### Unlimited iFrames
-Aka invincibility. While you are rolling you are invincibility for few seconds or "frames".
-Thereof the term "iframe". So this feature makes you invincibility for any kind of attacks.
+Aka invincibility. While you are rolling you are invincible for few seconds or "frames".
+Thereof the term "iframes" (invincibility frames). So this feature makes you invulnerable to any kind of attacks(physical and magic).
 
 ##### Unlimited Health/HP (Hit Points)
 Selfexplained. You can only die from gravity death.
