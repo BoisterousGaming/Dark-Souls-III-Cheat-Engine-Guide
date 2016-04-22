@@ -91,8 +91,8 @@ Generally there is an anti-cheat system!
 
 #### Soft-ban
 
-At the moment we got no information about soft-bans in DS3.  
-But there are very properbly a similar save-game-check system.
+It's looks like the soft-ban in DS3 is very similar to DS2.  
+At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.
 
 #### Save game transfer
 
