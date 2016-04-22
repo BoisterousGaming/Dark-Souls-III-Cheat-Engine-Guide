@@ -35,10 +35,9 @@ http://www.cheatengine.org/
   * [Unlimited FP](#unlimited-fp-focus-points)
   * [Unlimited Stamina](#unlimited-stamina)
   * [Unlimited Consumables](#unlimited-consumables)
-  * [Unlimited Durabilit](#unlimited-durabilit)
+  * [Unlimited Durability](#unlimited-durability)
   * [No Reload](#no-reload)
   * [No Equip Load](#no-equip-load)
-  * [Unlimited Weapon Durability](#unlimited-weapon-durability)
   * [Item Discovery](#item-discovery)
   * [Noclip](#noclip)
   * [Access All Bonfires](#access-all-bonfires)
@@ -129,34 +128,34 @@ There is no VAC in Dark Souls 3!
 
 ##### Unlimited iFrames
 Aka invincibility. While you are rolling you are invincible for few seconds or "frames".
-Thereof the term "iframes" (invincibility frames). So this feature makes you invulnerable to any kind of attacks(physical and magic).
+Thereof the term "iframes" (invincibility frames). So this feature makes you invulnerable to any kind of attacks(physical and magic).  
+Gravity death is still possible.
 
 ##### Unlimited Health/HP (Hit Points)
-Selfexplained. You can only die from gravity death.
+Selfexplained. You won´t lose health from any soft of damge.  
+Gravity death is still possible.
 
 ##### Unlimited FP (Focus Points)
-Selfexplained. Your Focus Points (blue bar) will stay on max. Have fun with spell spam. :)
+Your Focus Points (blue bar) will stay on maximum. Have fun with spell spam. :)
 
 ##### Unlimited Stamina 
-Selfexplained. Run forest, run and roll. :P
+Your Stamina (green bar) will stay on maximum.
 
 ##### Unlimited Consumables
-Selfexplained. Your usable items never run out.
+Your usable items will never run out.
 
-##### Unlimited Durabilit
-Selfexplained. Your equipment never break.
+##### Unlimited Durability
+Your equipment and weapons take no damage.
 
 ##### No Reload
-No need to load bolts in crossbow.
+No need to load bolts in your crossbow.
 
 ##### No Equip Load 
 Change your current equipment load to 0.
 
-##### Unlimited Weapon Durability
-Selfexplained. Weapons don´t lose any durability.
-
 ##### Item Discovery 
-Set your item discovery to 3000.
+Set your item discovery to 3000.  
+(Can cause problems, better use [100% Drop Rate](#100-drop-rate))
 
 ##### Noclip
 Allow you walking through walls.
@@ -165,7 +164,7 @@ Allow you walking through walls.
 Unlock all bonfire.
 
 ##### Teleport
-Show your current position and can be changed to teleport your character to specified cordinations.
+Show you your current position and can be changed to teleport your character to specified cordinations.
 
 ##### 100% Drop Rate
 
