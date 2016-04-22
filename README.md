@@ -78,11 +78,14 @@ You can also find some information in [this](http://steamcommunity.com/app/37432
 Invalid game data still remains present on your account; as such your account has now been penalized to restrict your online experience. The use of invalid data during gameplay is a violation of the online service end user license agreement.
 
 All who got the [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message, were banned on 20. April 2016.  
-Deleting characters hasn't helped. Now some players have send e-mails to Bandai support, we have to wait for official informations.
+Deleting characters hasn't helped.  
+After contacting Bandai/FormSoft support, they have answered:
+>Our team will review their account information to see if the player has been using any sort of hack/cheat or if the flag was a false positive,...
 
 Sources and more infos:  
 [Invalid Data / You have been penalized - Possible causes, some debunked](https://steamcommunity.com/app/374320/discussions/0/357284131785315076)  
-[Platform for those affected by INVALID GAME DATA](https://steamcommunity.com/app/374320/discussions/0/357284131785315076)
+[Platform for those affected by INVALID GAME DATA](https://steamcommunity.com/app/374320/discussions/0/357284131785315076)  
+[Tons of LEGITIMATE PC PLAYERS have now been banned](https://www.reddit.com/r/darksouls3/comments/4fmhws/help_tons_of_legitimate_pc_players_have_now_been/)
 
 #### Anti-Cheat
 
