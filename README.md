@@ -40,7 +40,7 @@ http://www.cheatengine.org/
   * [Noclip](#noclip)
   * [Access All Bonfires](#access-all-bonfires)
   * [Teleport](#teleport)
-  * [100% Drop Chance](#100-drop-chance)
+  * [100% Drop Rate](#100-drop-rate)
   * [Session Info](#session-info)
   * ...
 * Usage Explanation
@@ -148,9 +148,9 @@ Unlock all bonfire.
 ##### Teleport
 Show your current position and can be changed to teleport your character to specified cordinations.
 
-##### 100% Drop Chance
+##### 100% Drop Rate
 
-Each item an enemy can drop, will drop from him.
+Enemies drop every item that they can drop.
 Here is an [example](http://images.akamai.steamusercontent.com/ugc/279597038216419246/347364D5B05AB31A2371F4A51AEFFEE623ACB6D9/) with Darkwraiths.
 
 ##### Session Info
@@ -160,8 +160,6 @@ Information about all players in the current session.
 ## Usage Explanation
 
 #### Weapon upgrades and infusions represented through ID
-
-[My video tutorial](https://youtu.be/3hWiPozCTYo)
 
 [Quote from Zanzer](http://forum.cheatengine.org/viewtopic.php?p=5662748#5662748):
 >Here's a brief explanation about how weapon upgrades and infusions are represented in memory.
@@ -187,6 +185,8 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 +1300 Raw  
 +1400 Blessed  
 +1500 Hollow  
+
+[Upgrade and Infusion video tutorial](https://youtu.be/3hWiPozCTYo)
 
 #### How to spawn/swap items with "Last Pickup Item Highlighted"
 
