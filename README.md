@@ -3748,7 +3748,7 @@ Id       | Name                                                | Note
 20000074 | Dusk Crown Ring
 20000075 | Hornet Ring
 20000077 | Hawk Ring
-~~20000078~~ | Ring of Steel Protection | 
+~~20000078~~ | Ring of Steel Protection | Use 20004E48
 20000079 | Covetous Gold Serpent Ring
 2000007A | Covetous Silver Serpent Ring
 2000007B | Slumbering Dragoncrest Ring
