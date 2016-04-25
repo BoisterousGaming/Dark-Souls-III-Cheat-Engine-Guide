@@ -50,7 +50,7 @@ http://www.cheatengine.org/
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items with "Last Pickup Item Highlighted"](#how-to-spawnswap-items-with-last-pickup-item-highlighted)
 * Item IDs
-  * [!Importent Information!]()
+  * [Importent ID's Information!]()
   * [Goods](#goods-407) (407)
   * [Weapons](#weapons-2831) (2831)
   * [Protector](#protector-347)  (347)
@@ -221,7 +221,7 @@ I have made a [video](https://www.youtube.com/watch?v=Plh5I9sdMio) for this.
 
 A special thank to [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) for this great list.
 
-### !Importent Information!
+### Importent ID's Information!
 Sometimes you will find multiple ID's for the same item, always try the last one first!
 Example: Ring of Steel Protection got two entries, ID 20000078 and ID 20004E48, the **20004E48** is the right one.
 
@@ -539,8 +539,8 @@ Id       | Name                                               |Note
 
 ###Weapons (2831)
 
-Id       | Name
--------- | ---------------------------------------------------
+Id       | Name                                               |Note
+-------- | ---------------------------------------------------|--------------
 00015F90 | Torch
 0001ADB0 | Fists
 00061A80 | Standard Arrow
