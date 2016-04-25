@@ -222,8 +222,8 @@ I have made a [video](https://www.youtube.com/watch?v=Plh5I9sdMio) for this.
 A special thank to [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) for this great list.
 
 ### Importent ID's Information!
-Sometimes you will find multiple ID's for the same item, always try the last one first!
-Example: "Ring of Steel Protection" got two entries, ID 20000078 and ID 20004E48, the **20004E48** is the right one.
+Sometimes you will find multiple ID's for the same item, always try the last one first!  
+Example: "Ring of Steel Protection" got two entries, ID 20000078 and ID 20004E48, the **20004E48** is the right one.  
 The reason of duplicate item ID's is, that they have added many items from DS1 first.
 
 ###Goods (407)
