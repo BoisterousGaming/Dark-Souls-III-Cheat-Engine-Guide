@@ -3735,8 +3735,8 @@ Id       | Name                                                | Note
 ~~20000066~~ | Darkmoon Blade Covenant Ring | use 20004F7E
 20000067 | Cat Covenant Ring
 20000068 | Cloranthy Ring
-~~20000069~~ | Flame Stoneplate Ring | Use 20004E52
-~~2000006A~~ | Thunder Stoneplate Ring | Use 20004E5C
+~~20000069~~ | Flame Stoneplate Ring | use 20004E52
+~~2000006A~~ | Thunder Stoneplate Ring | use 20004E5C
 2000006B | Spell Stoneplate Ring
 ~~2000006C~~ | Speckled Stoneplate Ring | use 20004E7A
 ~~2000006D~~ | Bloodbite Ring | use 20004E84
@@ -3746,9 +3746,9 @@ Id       | Name                                                | Note
 20000072 | White Seance Ring
 ~~20000073~~ | Bellowing Dragoncrest Ring  | use 20004F07
 ~~20000074~~ | Dusk Crown Ring | use 20004F4C
-~~20000075~~ | Hornet Ring | 20004F9C
+~~20000075~~ | Hornet Ring | use 20004F9C
 ~~20000077~~ | Hawk Ring | use 20004F92
-~~20000078~~ | Ring of Steel Protection | Use 20004E48
+~~20000078~~ | Ring of Steel Protection | use 20004E48
 ~~20000079~~ | Covetous Gold Serpent Ring | use 20004FA6
 ~~2000007A~~ | Covetous Silver Serpent Ring | use 20004FB0
 ~~2000007B~~ | Slumbering Dragoncrest Ring | use 20004F42
