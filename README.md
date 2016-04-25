@@ -3726,23 +3726,23 @@ Id       | Name                                                | Note
 15E6A690 | Karla's Gloves
 15E6AA78 | Karla's Trousers
 
-###Accessory (171)
+### Accessory (171)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
-20000064 | Havel's Ring
-20000065 | Red Tearstone Ring
-20000066 | Darkmoon Blade Covenant Ring
+~~20000064~~ | Havel's Ring | use 20004E34
+~~20000065~~ | Red Tearstone Ring | use 20004ECA
+~~20000066~~ | Darkmoon Blade Covenant Ring | use 20004F7E
 20000067 | Cat Covenant Ring
 20000068 | Cloranthy Ring
 ~~20000069~~ | Flame Stoneplate Ring | Use 20004E52
 ~~2000006A~~ | Thunder Stoneplate Ring | Use 20004E5C
 2000006B | Spell Stoneplate Ring
 ~~2000006C~~ | Speckled Stoneplate Ring | use 20004E7A
-2000006D | Bloodbite Ring | use 20004E84
+~~2000006D~~ | Bloodbite Ring | use 20004E84
 ~~2000006E~~ | Poisonbite Ring | use 20004E8E
 2000006F | Tiny Being's Ring
-~~20000071~~ | Cursebite Ring | 20004E98
+~~20000071~~ | Cursebite Ring | use 20004E98
 20000072 | White Seance Ring
 ~~20000073~~ | Bellowing Dragoncrest Ring  | use 20004F07
 ~~20000074~~ | Dusk Crown Ring | use 20004F4C
@@ -3767,11 +3767,11 @@ Id       | Name                                                | Note
 2000008D | Lingering Dragoncrest Ring
 2000008E | Ring of the Evil Eye
 ~~2000008F~~ | Ring of Favor and Protection
-20000090 | Leo Ring
+~~20000090~~ | Leo Ring | use 20004EE8
 20000091 | East Wood Grain Ring
-20000092 | Wolf Ring
-20000093 | Blue Tearstone Ring
-20000094 | Ring of the Sun's Firstborn
+~~20000092~~ | Wolf Ring | use 20004EDE
+~~20000093~~ | Blue Tearstone Ring | use 20004ED4
+~~20000094~~ | Ring of the Sun's Firstborn | use 20004F1B
 20000095 | Darkmoon Seance Ring
 20002710 | Blade of the Darkmoon
 20002724 | Watchdogs of Farron
