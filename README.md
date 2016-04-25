@@ -238,7 +238,7 @@ Id       | Name                                                | Note
 40000073 | Black Eye Orb  | 
 40000075 | Darksign  | 
 40000077 | Way of White Circlet  | 
-40000096 | Estus Flask  | 
+~~40000096~~ | Estus Flask  | 
 40000097 | Estus Flask  | 
 40000098 | Estus Flask+1  | 
 40000099 | Estus Flask+1  | 
@@ -3735,23 +3735,23 @@ Id       | Name                                                | Note
 20000066 | Darkmoon Blade Covenant Ring
 20000067 | Cat Covenant Ring
 20000068 | Cloranthy Ring
-20000069 | Flame Stoneplate Ring
-2000006A | Thunder Stoneplate Ring
+~~20000069~~ | Flame Stoneplate Ring | Use 20004E52
+~~2000006A~~ | Thunder Stoneplate Ring | Use 20004E5C
 2000006B | Spell Stoneplate Ring
-2000006C | Speckled Stoneplate Ring
-2000006D | Bloodbite Ring
-2000006E | Poisonbite Ring
+~~2000006C~~ | Speckled Stoneplate Ring | use 20004E7A
+2000006D | Bloodbite Ring | use 20004E84
+~~2000006E~~ | Poisonbite Ring | use 20004E8E
 2000006F | Tiny Being's Ring
-20000071 | Cursebite Ring
+~~20000071~~ | Cursebite Ring | 20004E98
 20000072 | White Seance Ring
-20000073 | Bellowing Dragoncrest Ring
-20000074 | Dusk Crown Ring
-20000075 | Hornet Ring
-20000077 | Hawk Ring
+~~20000073~~ | Bellowing Dragoncrest Ring  | use 20004F07
+~~20000074~~ | Dusk Crown Ring | use 20004F4C
+~~20000075~~ | Hornet Ring | 20004F9C
+~~20000077~~ | Hawk Ring | use 20004F92
 ~~20000078~~ | Ring of Steel Protection | Use 20004E48
-20000079 | Covetous Gold Serpent Ring
-2000007A | Covetous Silver Serpent Ring
-2000007B | Slumbering Dragoncrest Ring
+~~20000079~~ | Covetous Gold Serpent Ring | use 20004FA6
+~~2000007A~~ | Covetous Silver Serpent Ring | use 20004FB0
+~~2000007B~~ | Slumbering Dragoncrest Ring | use 20004F42
 2000007C | Ring of Fog
 2000007D | Rusted Iron Ring
 2000007E | Ring of Sacrifice
@@ -3766,7 +3766,7 @@ Id       | Name                                                | Note
 2000008C | Ring of Displacement
 2000008D | Lingering Dragoncrest Ring
 2000008E | Ring of the Evil Eye
-2000008F | Ring of Favor and Protection
+~~2000008F~~ | Ring of Favor and Protection
 20000090 | Leo Ring
 20000091 | East Wood Grain Ring
 20000092 | Wolf Ring
