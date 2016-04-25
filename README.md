@@ -50,7 +50,7 @@ http://www.cheatengine.org/
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items with "Last Pickup Item Highlighted"](#how-to-spawnswap-items-with-last-pickup-item-highlighted)
 * Item IDs
-  * [Importent ID's Information!]()
+  * [Importent ID's Information!](#importent-ids-information)
   * [Goods](#goods-407) (407)
   * [Weapons](#weapons-2831) (2831)
   * [Protector](#protector-347)  (347)
@@ -3748,7 +3748,7 @@ Id       | Name
 20000074 | Dusk Crown Ring
 20000075 | Hornet Ring
 20000077 | Hawk Ring
-20000078 | Ring of Steel Protection
+~~20000078~~ | Ring of Steel Protection | 
 20000079 | Covetous Gold Serpent Ring
 2000007A | Covetous Silver Serpent Ring
 2000007B | Slumbering Dragoncrest Ring
