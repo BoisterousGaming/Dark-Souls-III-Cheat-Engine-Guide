@@ -212,10 +212,12 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 +1500 Hollow  
 
 [Upgrade and Infusion video tutorial](https://youtu.be/3hWiPozCTYo)
+[Demo video](http://puu.sh/oq3yu/ced4ca58ab.webm) by RandomFromdrone
 
 #### How to spawn/swap items with "Last Pickup Item Highlighted"
 
 I have made a [video](https://www.youtube.com/watch?v=Plh5I9sdMio) for this.
+[Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone 
 
 ## Item IDs
 
@@ -4017,4 +4019,5 @@ Id       | Name                                                | Note
 * [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983)
 * [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448)
 * [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758)
+* [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525)
 
