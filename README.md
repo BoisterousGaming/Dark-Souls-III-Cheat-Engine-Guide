@@ -25,7 +25,7 @@ http://www.cheatengine.org/
  * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
- * [What is safe to play online?](what-is-safe-to-play-online)
+ * [What is safe to play online?](#what-is-safe-to-play-online)
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
