@@ -323,7 +323,7 @@ Id       | Name                                                | Note
 400000F1 | Hidden Blessing  | 
 400000F2 | Silver Pendant  | 
 40000104 | Green Blossom  | 
-40000105 | Budding Green Blossom  | 
+~~40000105~~ | Budding Green Blossom  | 
 40000106 | Budding Green Blossom  | 
 4000010E | Bloodred Moss Clump  | 
 4000010F | Purple Moss Clump  | 
@@ -410,7 +410,7 @@ Id       | Name                                                | Note
 400001CB | Red Bug Pellet  | 
 400001CC | Yellow Bug Pellet  | 
 400001CD | Black Bug Pellet  | 
-400001CE | Young White Branch  | 
+~~400001CE~~ | Young White Branch  | 
 400001CF | Young White Branch  | 
 400001EA | Dark Sigil  | 
 400001F4 | Ember  | 
