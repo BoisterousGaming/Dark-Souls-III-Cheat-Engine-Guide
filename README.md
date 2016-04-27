@@ -4055,3 +4055,4 @@ Id       | Name                                                | Note
 * [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758)
 * [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525)
 * [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280)
+* [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) (me)
