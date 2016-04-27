@@ -98,6 +98,40 @@ At the moment we only know, that there are some functions that checks and overwr
 It's looks like the soft-ban in DS3 is very similar to DS2.  
 At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.
 
+User [ranonadg](http://forum.cheatengine.org/viewtopic.php?p=5665738#5665738) has made some tests and here is his report:  
+>Alright, to try and answer some questions regarding softbans and what may or may not trigger them, I've spent the last week testing various things. This is not expected to be conclusive, as my sample size is limited to myself, but hopefully it'll shine some light on things.
+>
+>All testing was done on newly-created dummy accounts and family-shared. All testing was done in offline mode and then purposely going online for detection to be tested.
+>
+>**Tested Without Invalid Data Warning**
+>
+>- Swapping tradeable (other players can pick up) items using dropped item swapping
+>- Swapping items that could not possibly be obtained by the player on a given cycle (+2 rings from higher NG cycles)
+>- Increasing soul count by swapping items for soul items
+>- Multiplying dropped items that cannot be legitimately traded but can be purchased infinitely (titanite shards/large shards/chunks/scales/twinkling)
+>- Modifying character statistics within class and soul level (-2 from STR, +2 to FTH)
+>
+>
+>**Tested and Received Invalid Data Warning**
+>
+>- Swapping untradeable items that there are a limited number of total (estus shards, undead bone shards)
+>- Increasing soul count directly
+>- Changing item attributes outside normal parameters
+>- Modifying character statistics beyond possible with current class and soul level
+>
+>
+>**Not Yet Tested**
+>
+>- Changing behavior attributes (noclip, movement speed, etc)
+>- Modifying other character statistics (HP/FP/SP, poise, resistances, absorption)
+>- Swapping items still in inventory (i.e. not using the drop swap method)
+>- Anything else not listed above
+>
+>
+>In short, it seems to not detect anything you could get through trading, and I theorize that it considers them legitimate if picked up off the ground since that's how you'd get it from another player. It DOES seem to track certain things that can't be traded and are limited, such as Estus items. Other safe non-trades seem to be materials like titanite. Soul items like Fading Soul also seem to be safe to multiply (by which I mean drop it, then change the quantity in the Pickup script).
+>
+>Hope this is helpful to anyone. Don't be a dick online.
+
 #### Save game transfer
 
 If you got a softban, it's possible to transfer you save game to another account.  
@@ -4020,4 +4054,4 @@ Id       | Name                                                | Note
 * [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448)
 * [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758)
 * [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525)
-
+* [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280)
