@@ -25,6 +25,7 @@ http://www.cheatengine.org/
  * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
  * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
+ * [What is safe to play online?](what-is-safe-to-play-online)
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
@@ -79,8 +80,8 @@ You can also find some information in [this](http://steamcommunity.com/app/37432
 >[CAUTION] YOU HAVE BEEN PENALIZED 
 Invalid game data still remains present on your account; as such your account has now been penalized to restrict your online experience. The use of invalid data during gameplay is a violation of the online service end user license agreement.
 
-All who got the [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message, were banned on 20. April 2016.  
-Deleting characters hasn't helped.  
+Most player who got the [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message, were banned on 20. April 2016.  
+Deleting characters hasn't helped, the message still appears.  
 After contacting Bandai/FormSoft support, they have answered:
 >Our team will review their account information to see if the player has been using any sort of hack/cheat or if the flag was a false positive,...
 
@@ -96,7 +97,10 @@ At the moment we only know, that there are some functions that checks and overwr
 #### Soft-ban
 
 It's looks like the soft-ban in DS3 is very similar to DS2.  
-At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.
+At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.  
+If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
+
+#### What is safe to play online?
 
 User [ranonadg](http://forum.cheatengine.org/viewtopic.php?p=5665738#5665738) has made some tests and here is his report:  
 >Alright, to try and answer some questions regarding softbans and what may or may not trigger them, I've spent the last week testing various things. This is not expected to be conclusive, as my sample size is limited to myself, but hopefully it'll shine some light on things.
