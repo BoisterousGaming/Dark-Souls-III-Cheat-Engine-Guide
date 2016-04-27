@@ -102,6 +102,8 @@ If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#me
 
 #### What is safe to play online?
 
+##### Nothing is 100% safe, cheating is always a risk! Do it on your own risk!
+
 User [ranonadg](http://forum.cheatengine.org/viewtopic.php?p=5665738#5665738) has made some tests and here is his report:  
 >Alright, to try and answer some questions regarding softbans and what may or may not trigger them, I've spent the last week testing various things. This is not expected to be conclusive, as my sample size is limited to myself, but hopefully it'll shine some light on things.
 >
