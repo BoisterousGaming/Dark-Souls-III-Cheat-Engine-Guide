@@ -6,7 +6,7 @@ I am trying to create a similar Guide for all people out there.
 And I want to say a big thank to all people on CE forum for working together on a great CE-Table.  
 If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).  
 If you want me to add or change something in this guide, use the "Issues" system or make a "Pull-Request".  
-I am also happy for any grammar issues reports.
+Let us work together to create a great Guide, that will contains all nessesary information. :)
 
 ## General
 ###Cheat Engine
