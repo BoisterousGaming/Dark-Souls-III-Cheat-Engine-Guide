@@ -25,7 +25,11 @@ Global Const $aTables[2][2] = [ _
 							["Zanzer", "http://forum.cheatengine.org/download.php?id=116816"] _
 						]
 
-checkAndDownloadLatestVersion()
+AdlibRegister("checkAndDownloadLatestVersion", 60*1000*30)
+
+While 1
+	Sleep(100)
+WEnd
 
 Func createFolderIfNotExist($sPath)
 	Local $bResult = False
