@@ -261,7 +261,7 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 
 #### How to spawn/swap items
 
-**Note:** "Last Pickup Item Highlighted" is now [Helpers->Item Swap](http://imgur.com/OMUlmj5)  
+**Note:** `Last Pickup Item Highlighted` is now [Helpers->Item Swap](http://imgur.com/OMUlmj5)  
 I have made a [video](https://www.youtube.com/watch?v=Plh5I9sdMio) for this.  
 [Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone 
 
