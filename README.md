@@ -49,7 +49,7 @@ http://www.cheatengine.org/
   * ...
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
-  * [How to spawn/swap items with "Last Pickup Item Highlighted"](#how-to-spawnswap-items-with-last-pickup-item-highlighted)
+  * [How to spawn/swap items](#how-to-spawnswap-items)
 * Item IDs
   * [Importent ID's Information!](#importent-ids-information)
   * [Goods](#goods-407) (407)
@@ -81,8 +81,8 @@ You can also find some information in [this](http://steamcommunity.com/app/37432
 Invalid game data still remains present on your account; as such your account has now been penalized to restrict your online experience. The use of invalid data during gameplay is a violation of the online service end user license agreement.
 
 Most player who got the [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message, were banned on 20. April 2016.  
-Deleting characters hasn't helped, the message still appears.  
-After contacting Bandai/FormSoft support, they have answered:
+ 
+After contacting Bandai/FormSoft support, they have answered:  
 >Our team will review their account information to see if the player has been using any sort of hack/cheat or if the flag was a false positive,...
 
 Sources and more infos:  
@@ -259,8 +259,9 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 [Upgrade and Infusion video tutorial](https://youtu.be/3hWiPozCTYo)  
 [Demo video](http://puu.sh/oq3yu/ced4ca58ab.webm) by RandomFromdrone
 
-#### How to spawn/swap items with "Last Pickup Item Highlighted"
+#### How to spawn/swap items
 
+**Note:** `Last Pickup Item Highlighted` is now [Helpers->Item Swap](http://imgur.com/OMUlmj5)  
 I have made a [video](https://www.youtube.com/watch?v=Plh5I9sdMio) for this.  
 [Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone 
 
