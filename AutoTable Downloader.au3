@@ -25,6 +25,7 @@ Global Const $aTables[2][2] = [ _
 							["Zanzer", "http://forum.cheatengine.org/download.php?id=116816"] _
 						]
 
+checkAndDownloadLatestVersion()
 AdlibRegister("checkAndDownloadLatestVersion", 60*1000*30)
 
 While 1
@@ -49,7 +50,10 @@ EndFunc
 
 Func downloadFile($sUrl, $sLocation)
 	Local $sStamp = @MDAY&"."&@MON&"."&@YEAR&" "&@HOUR&"-"&@MIN&"-"&@SEC
-	InetGet($sUrl, $sLocation & $sStamp & $POSTFIX, $INET_FORCERELOAD)
+	Local $sFile = $sLocation & $sStamp & $POSTFIX
+	If InetGet($sUrl, $sFile, $INET_FORCERELOAD) > 0 Then
+		TrayTip("Download complete", $sFile, 3)
+	EndIf
 EndFunc
 
 Func checkAndDownloadLatestVersion()
