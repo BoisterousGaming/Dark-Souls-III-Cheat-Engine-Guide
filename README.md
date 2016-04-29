@@ -104,7 +104,107 @@ If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#me
 
 ##### Nothing is 100% safe, cheating is always a risk! Do it on your own risk!
 
-[Information Placeholder] WIP
+[dezimous](http://forum.cheatengine.org/viewtopic.php?p=5666438#5666438) quote:
+>Ive been using CE since dark souls 1 and ive never been soft banned. Its a simple as this:
+>
+>**If items are the concern:**
+>
+>Dont change ember amounts. I keep hearing of people getting banned after giving more embers to themselves. I cant confirm or deny this actually happens but I wouldn't risk it.
+>
+>Any item in the entire game that another player can drop for you, or that you can buy from a vendor, (ie, any ring/weapon/armor/etc) will not get you banned for item swapping. The only exception would be if some dipshit made a +15 chaos blade (which it obviously cant get to) and they went online with an obviously cheated weapon.
+>
+>I have literally every weapon worth using at max level in dark souls 3 on my chars and im not banned.
+>
+>If you do this online, you'll get banned. If you cheat online at all you deserve to get banned. You do not have to unplug your ethernet cord or disconnect from the internet to use CE. Just go offline in steam before you launch the game.
+>
+>Spawning in weapons that are too high of a level or weapons with infusions that cannot be infused will get you banned. Spawning in NG+ rings without being in NG+ will probably get you banned.
+>
+>**Char Duping/Name Change/Gender Change:**
+>
+>I copied my chars so I have multiple and ive used the name changer as well as the gender changer and gone online AFTER I did all of this and im not banned. I am pretty sure the only reason I did not get banned for the name change or the gender change is because these were brand new characters that had never been online before. I made the chars, altered them, and saved them all before I went online so there was no real change to note in my save files, besides the fact it looks like i played a shitload on a new char.
+>
+>Also on the name change. Names can only be 16 characters, and the usable characters are numbers, letters and spaces. Everything else is a no go.
+>
+>People that get caught using CE in dark souls 3 are the same people that get caught cheating in every souls game. IF YOU EDIT YOUR HARD SAVE FILES PERM INFO (directly editing souls, etc) ON A CHAR THAT HAS BEEN ONLINE BEFORE THE CHANCE OF BANS GOES WAY UP.
+>
+>**METHOD: for duping Characters:**
+>
+>Since I haven't seen it explained and I am sure ill get asked. Here is my method of char duping. it may have extra unnecessary steps, but I haven't been banned for doing it so I am not changing anything about my process.
+>
+>Create a new char, name and appearance wont matter.
+>Get into game and Open CE and find the save location number. (remember but dont change this number)
+>Then quit to main menu.
+>Load the char you want to copy
+>Open CE and find the save location number again.
+>Change it to the number you remembered from new char
+>X both boxes in CE to make the value static
+>Sit at bonfire
+>Quit to main menu
+>Un-X any boxes in CE before you do anything
+>Load newly copied char (should have both copies of the char)
+>Save and quit fully out of DS3
+>Profit
+>
+>Note: The first save slot or top one in the load list starts at 0 and goes up as it works its way down. So if you have 2 chars and are copying to make a third, then when you load the one you want to copy into game (lets say the top or 1st char you made) and open CE, you will be changing the 0 save location to a 2. This will save over your brand new third character with everything about your first char.
+>
+>This is helpful if you want to be able to swap builds more than 5 times per NG.
+>
+>**Level/Soul Edits:**
+>
+>Directly editing the amount of souls on your char will **ALWAYS** get you banned.
+>
+>Lowering a chars overall level will probably get you banned.
+>
+>Raising a chars overall level will get you banned unless you add the levels perfectly up in all your attributes, but either way you could just be smart and item swap/stack edit souls and level up after you pop them to avoid any possibility of getting banned.
+>
+>**Gestures:**
+>
+>I have no idea how gestures work in this table since they are not permanent, I tried spawning one and picking it up and all it did was put it into my inventory, look sketchy as hell and make me spend awhile trying to get it out since you cant drop it. Until someone develops an actual way to give permanent gestures I would suggest not fucking with it. The gesture thing in the table is only a temp.
+>
+>**Access All Bonfires:**
+>
+>Never used the access all bonfires script but it seems like something that could easily trigger a ban considering its gonna be obvious if you have the kiln of the first flame bonfire and you havent even killed the deku tree boss.
+>
+>**100% Drop rate script:**
+>
+>Ive used the 100 percent drop script a lot and its never triggered a ban.
+>
+>**Covenant Items:**
+>
+>I have never used the covenant item changer in the table. Just get gud and do your invasions. If you are trash just look up a havel shield build and never lose. Ez.
+>
+>**Changing Char Behavior/Dynamic Stats:**
+>
+>Not thoroughly tested but from my experience, no clip and teleport may get you banned but it seems unlikely to me. I know for a fact HP/FP/Stam/Resist/Etc, (if done ONLY OFFLINE) will not get you banned.
+>
+>**Reinforcement/Crafting Matts:**
+>
+>I have spawned in 100's of everything including slabs and never been banned. However going online with more than 8 slabs is a bad idea since they cannot be traded from player to player and you can only get 8 in a single play through. The rest of the crafting matts can be bought indefinitely so spawn as much of that as you want.
+>
+>**Last item highlighted stack size changes:**
+>
+>Go ahead, works fine, wont get you banned. Just make sure to NOT make like a stack of 99 slabs and go online. Like I said, never more than 8 when you go online.
+>
+>**Swapping Inventory Items Directly:**
+>
+>I have done this and not been banned for this. I would not suggest doing anything this way unless you pick something up like a gesture and its stuck in your inventory and theres no actual way to get rid of it besides changing it to an item you can. Even doing this makes 2 stacks in your inventory of an item, ie 2 homeward bone stacks, and looks sketch as hell. The reason I suggest avoiding this is because its a hassle and takes more time than dropping and item swapping. Its harder than just item swapping and takes more number changes so it allows for more mistakes and therefore a higher chance of a ban.
+>
+>**Things I have not tried** I have not listed above so try it yourself or ask someone else.
+>
+>I have also not tried spawning in items that can only be obtained from quests or picked up around the world that cannot be normally dropped. For example, estus flask shards, bone shards, ashes, coal, tomes, etc. Just go find those.
+>
+>
+>**Once again because people seem to lack common sense. NEVER CHEAT ONLINE, not because I care about you grieving some kid in pvp, but because thats asking to be banned, no matter what you are doing.**
+>
+>Also keep in mind. I say this stuff will get you banned, but **A LOT** of the time if you fix your mistake (Example: spawning a +15chaos blade and picking it up, realizing it was a mistake, dropping it and changing it to a legit item) **BEFORE** you go back online, then 99 percent of the time you wont be banned. However some things like directly editing souls and other heavy triggers may not be so forgiving.
+>
+>**Requests**
+>
+>I do not have a bunch of accounts set up to test ban triggers, this is just my experience over time, so please do not ask me to do so. What I know is what is covered. If I think of anything I missed ill add it.
+>
+>If you need any methods for anything that hasnt been explained in this forum already, THAT I HAVE SAID I HAVE DONE, feel free to ask and ill try and add it below the section where I talked about it. If it is something that is covered somewhere else obviously, I wont waste my time. However, I browse this thread quite a bit right now, but it isnt 24/7 and I am not an actual table developer or coder so please refrain from asking me about anything of that nature or getting buttmad if I do not reply immediately.
+>
+>**WHAT I SAY HERE IS WHAT HAS WORKED FOR ME AND MY FRIENDS AND OUR EXPERIENCES, BUT IS THEORY AND SPECULATION. THERE IS ALWAYS A RISK TO CHEATING AND I WILL TAKE NO RESPONSIBILITY FOR ANY NEGATIVE OUTCOMES. **
 
 User [ranonadg](http://forum.cheatengine.org/viewtopic.php?p=5665738#5665738) has made some tests and here is his report:  
 >Alright, to try and answer some questions regarding softbans and what may or may not trigger them, I've spent the last week testing various things. This is not expected to be conclusive, as my sample size is limited to myself, but hopefully it'll shine some light on things.
@@ -4067,4 +4167,5 @@ Id       | Name                                                | Note
 * [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758)
 * [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525)
 * [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280)
+* [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852)
 * [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) (me)
