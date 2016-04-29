@@ -202,9 +202,7 @@ If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#me
 >
 >I do not have a bunch of accounts set up to test ban triggers, this is just my experience over time, so please do not ask me to do so. What I know is what is covered. If I think of anything I missed ill add it.
 >
->If you need any methods for anything that hasnt been explained in this forum already, THAT I HAVE SAID I HAVE DONE, feel free to ask and ill try and add it below the section where I talked about it. If it is something that is covered somewhere else obviously, I wont waste my time. However, I browse this thread quite a bit right now, but it isnt 24/7 and I am not an actual table developer or coder so please refrain from asking me about anything of that nature or getting buttmad if I do not reply immediately.
->
->**WHAT I SAY HERE IS WHAT HAS WORKED FOR ME AND MY FRIENDS AND OUR EXPERIENCES, BUT IS THEORY AND SPECULATION. THERE IS ALWAYS A RISK TO CHEATING AND I WILL TAKE NO RESPONSIBILITY FOR ANY NEGATIVE OUTCOMES. **
+>**WHAT I SAY HERE IS WHAT HAS WORKED FOR ME AND MY FRIENDS AND OUR EXPERIENCES, BUT IS THEORY AND SPECULATION. THERE IS ALWAYS A RISK TO CHEATING AND I WILL TAKE NO RESPONSIBILITY FOR ANY NEGATIVE OUTCOMES.**
 
 User [ranonadg](http://forum.cheatengine.org/viewtopic.php?p=5665738#5665738) has made some tests and here is his report:  
 >Alright, to try and answer some questions regarding softbans and what may or may not trigger them, I've spent the last week testing various things. This is not expected to be conclusive, as my sample size is limited to myself, but hopefully it'll shine some light on things.
@@ -651,7 +649,7 @@ Id       | Name                                                | Note
 40000866 | Patches' Ashes  | 
 40000867 | Dragon Chaser's Ashes  | 
 40000868 | Easterner's Ashes  | 
-40002328 | Beckon  | 
+40002328 | Beckon  |  Gestures can't be picked up!
 40002329 | Point forward  | 
 4000232A | Hurrah!  | 
 4000232B | Bow  | 
