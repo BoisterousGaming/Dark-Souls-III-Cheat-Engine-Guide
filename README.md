@@ -565,7 +565,7 @@ Id       | Name                                                | Note
 400003E8 | Titanite Shard  | 
 400003E9 | Large Titanite Shard  | 
 400003EA | Titanite Chunk  | 
-400003EB | Titanite Slab  | 
+400003EB | Titanite Slab  | Ban-Warning, you can have only 8 in one play through!
 400003F2 | Dragon Scale  | 
 400003FC | Titanite Scale  | 
 40000406 | Twinkling Titanite  | 
@@ -650,39 +650,39 @@ Id       | Name                                                | Note
 40000867 | Dragon Chaser's Ashes  | 
 40000868 | Easterner's Ashes  | 
 40002328 | Beckon  |  Gestures can't be picked up!
-40002329 | Point forward  | 
-4000232A | Hurrah!  | 
-4000232B | Bow  | 
-4000232C | Jump for joy  | 
-4000232D | Duel bow  | 
-4000232E | Wave  | 
-4000232F | Praise the Sun  | 
-40002330 | Point up  | 
-40002331 | Point down  | 
-40002334 | Prostration  | 
-40002335 | Proper bow  | 
-40002336 | Prayer  | 
-40002337 | Welcome  | 
-40002338 | Joy  | 
-40002339 | My thanks!  | 
-4000233A | Rejoice  | 
-4000233B | Rest  | 
-4000233C | By my sword  | 
-4000233D | Dignified bow  | 
-4000233F | Curl up  | 
-40002340 | Stretch out  | 
-40002341 | Call over  | 
-40002342 | Collapse  | 
-40002343 | Quiet Resolve  | 
-40002344 | Patches Squat  | 
-40002345 | Applause  | 
-40002346 | Path of the Dragon  | 
-40002347 | Legion Etiquette  | 
-40002348 | Darkmoon Loyalty  | 
-40002349 | Sleep  | 
-4000234A | Toast  | 
-4000234B | Silent Ally  | 
-4000234C | Savage's Bow  | 
+40002329 | Point forward  | Gestures can't be picked up!
+4000232A | Hurrah!  | Gestures can't be picked up!
+4000232B | Bow  | Gestures can't be picked up!
+4000232C | Jump for joy  | Gestures can't be picked up!
+4000232D | Duel bow  | Gestures can't be picked up!
+4000232E | Wave  | Gestures can't be picked up!
+4000232F | Praise the Sun  | Gestures can't be picked up!
+40002330 | Point up  | Gestures can't be picked up!
+40002331 | Point down  | Gestures can't be picked up!
+40002334 | Prostration  | Gestures can't be picked up!
+40002335 | Proper bow  | Gestures can't be picked up!
+40002336 | Prayer  | Gestures can't be picked up!
+40002337 | Welcome  | Gestures can't be picked up!
+40002338 | Joy  | Gestures can't be picked up!
+40002339 | My thanks!  | Gestures can't be picked up!
+4000233A | Rejoice  | Gestures can't be picked up!
+4000233B | Rest  | Gestures can't be picked up!
+4000233C | By my sword  | Gestures can't be picked up!
+4000233D | Dignified bow  | Gestures can't be picked up!
+4000233F | Curl up  | Gestures can't be picked up!
+40002340 | Stretch out  | Gestures can't be picked up!
+40002341 | Call over  | Gestures can't be picked up!
+40002342 | Collapse  | Gestures can't be picked up!
+40002343 | Quiet Resolve  | Gestures can't be picked up!
+40002344 | Patches Squat  | Gestures can't be picked up!
+40002345 | Applause  | Gestures can't be picked up!
+40002346 | Path of the Dragon  | Gestures can't be picked up!
+40002347 | Legion Etiquette  | Gestures can't be picked up!
+40002348 | Darkmoon Loyalty  | Gestures can't be picked up!
+40002349 | Sleep  | Gestures can't be picked up!
+4000234A | Toast  | Gestures can't be picked up!
+4000234B | Silent Ally  | Gestures can't be picked up!
+4000234C | Savage's Bow  | Gestures can't be picked up!
 
 ###Weapons (2831)
 
