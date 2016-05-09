@@ -53,6 +53,7 @@ Func downloadFile($sUrl, $sLocation)
 	Local $sFile = $sLocation & $sStamp & $POSTFIX
 	If InetGet($sUrl, $sFile, $INET_FORCERELOAD) > 0 Then
 		TrayTip("Download complete", $sFile, 3)
+		Run(@ScriptDir&"\AutoCommit.bat", @ScriptDir)
 	EndIf
 EndFunc
 
