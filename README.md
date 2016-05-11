@@ -9,10 +9,10 @@ If you want me to add or change something in this guide, use the "Issues" system
 Let us work together to create a great Guide, that will contains all nessesary information. :)
 
 ## General
-###Cheat Engine
+### Cheat Engine
 http://www.cheatengine.org/
 
-###### Tables on the CE Forum: 
+###### Tables on the CE Forum:
 
 * [Phokz's table, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191) (see [Credits](#credits))
 * [Zanzer's Table](http://forum.cheatengine.org/viewtopic.php?p=5661102#5661102)
@@ -77,11 +77,11 @@ Also see informations about the [Offline mode](#offline-mode).
 You can also find some information in [this](http://steamcommunity.com/app/374320/discussions/0/361787186424251460/) steam community thread.
 
 #### Message: [CAUTION] YOU HAVE BEEN PENALIZED
->[CAUTION] YOU HAVE BEEN PENALIZED 
+>[CAUTION] YOU HAVE BEEN PENALIZED
 Invalid game data still remains present on your account; as such your account has now been penalized to restrict your online experience. The use of invalid data during gameplay is a violation of the online service end user license agreement.
 
 Most player who got the [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message, were banned on 20. April 2016.  
- 
+
 After contacting Bandai/FormSoft support, they have answered:  
 >Our team will review their account information to see if the player has been using any sort of hack/cheat or if the flag was a false positive,...
 
@@ -102,8 +102,46 @@ If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#me
 
 #### What is safe to play online?
 
-##### Nothing is 100% safe, cheating is always a risk! Do it on your own risk!
+##### Nothing is 100% safe, cheating is always a risk! Do it on your own liability!
 
+#### Generelly
+As long you are [offline](#offline-mode) you are safe. All temporery changes(unlimited stuff like HP/Stamina/FP/iFrame) that don't stay in your save game are also safe. If you do something that can cause a ban, you can undo it before you go back online.
+
+##### 1. Makes your save game "Invalid"
+- Directly change souls amount
+- Changing your character stats
+- Name change
+- Spawning unrealistic weapons (example: +15 upgrade or infusions that can not be on the weapon)
+- Spawning items that can not be picked up
+- Swapping items directly in your inventory
+- Got more than 8 Titanite Slab in NG (You can collect max 8 per play through)
+- Unlock all bonfires (with CE)
+
+##### 2. Risky
+- Directly change ember amount
+- Spawn gestures
+- Spawn quest items, keys etc. Things that can only be found once.
+
+##### 3. Unknown (untested)
+- NoClip, Teleport, Movement speed
+- Increase item discovery
+- Spawning items online
+- Spawn NG+ items in NG (risky)
+- Anything else that is not listed in the guide.
+
+##### 3. Safe to use
+- Unlimited iFrame/HP/Stamina and FP (online)
+- Spawn tradable items (offline)
+- Spawn usble items and use them before you got online. (offline) (example: spawn Titanite Slab to upgrade your weapon before you gone back online should be safe)
+- Spawn soul items and use them to increase your souls amount (offline)
+- Realistic modification of character stats (risky,offline) (example:increase STR +1 and decrease INT for -1)
+
+##### Tags note
+**(online)** means you can use saftly while you are online.  
+**(offline)** means, it's recommended to use it offline and go online if you are done.  
+**(risky)** means it should be safe, but better don't use it to get sure.
+
+Read user reports for more information:  
 [dezimous](http://forum.cheatengine.org/viewtopic.php?p=5666438#5666438) quote:
 >Ive been using CE since dark souls 1 and ive never been soft banned. Its a simple as this:
 >
@@ -264,7 +302,7 @@ Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use 
 
 #### Offline mode
 If you activate the "Offline mode" in your game settings, the save game will still be synced with the server so long as you got an internet connection.  
-If you want to cheat in offline mode, you have to disable your internet completely.  
+If you want to cheat in offline mode, start steam in offline mode or disable your internet completely.  
 You can easily [disable your network adapter](https://www.youtube.com/watch?v=6LSKdb9dLvM).  
 Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbound and Outbound Firewall rules](https://www.youtube.com/watch?v=tTvI-ZF_lXo).
 
@@ -288,7 +326,7 @@ Gravity death is still possible.
 ##### Unlimited FP (Focus Points)
 Your Focus Points (blue bar) will stay on maximum. Have fun with spell spam. :)
 
-##### Unlimited Stamina 
+##### Unlimited Stamina
 Your Stamina (green bar) will stay on maximum.
 
 ##### Unlimited Consumables
@@ -300,10 +338,10 @@ Your equipment and weapons take no damage.
 ##### No Reload
 No need to load bolts in your crossbow.
 
-##### No Equip Load 
+##### No Equip Load
 Change your current equipment load to 0.
 
-##### Item Discovery 
+##### Item Discovery
 Set your item discovery to 3000.  
 (Can cause problems, better use [100% Drop Rate](#100-drop-rate))
 
@@ -361,7 +399,7 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 
 **Note:** `Last Pickup Item Highlighted` is now [Helpers->Item Swap](http://imgur.com/OMUlmj5)  
 I have made a [video](https://www.youtube.com/watch?v=Plh5I9sdMio) for this.  
-[Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone 
+[Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone
 
 ## Item IDs
 
@@ -379,276 +417,276 @@ Id       | Name                                                | Note
 40000064 | White Sign Soapstone |
 40000065 | Red Sign Soapstone |
 40000066 | Red Eye Orb |
-40000067 | Black Separation Crystal  | 
-4000006C | Roster of Knights  | 
-4000006F | Cracked Red Eye Orb  | 
-40000073 | Black Eye Orb  | 
-40000075 | Darksign  | 
-40000077 | Way of White Circlet  | 
-~~40000096~~ | Estus Flask  | 
-40000097 | Estus Flask  | 
-40000098 | Estus Flask+1  | 
-40000099 | Estus Flask+1  | 
-4000009A | Estus Flask+2  | 
-4000009B | Estus Flask+2  | 
-4000009C | Estus Flask+3  | 
-4000009D | Estus Flask+3  | 
-4000009E | Estus Flask+4  | 
-4000009F | Estus Flask+4  | 
-400000A0 | Estus Flask+5  | 
-400000A1 | Estus Flask+5  | 
-400000A2 | Estus Flask+6  | 
-400000A3 | Estus Flask+6  | 
-400000A4 | Estus Flask+7  | 
-400000A5 | Estus Flask+7  | 
-400000A6 | Estus Flask+8  | 
-400000A7 | Estus Flask+8  | 
-400000A8 | Estus Flask+9  | 
-400000A9 | Estus Flask+9  | 
-400000AA | Estus Flask+10  | 
-400000AB | Estus Flask+10  | 
-400000BE | Ashen Estus Flask  | 
-400000BF | Ashen Estus Flask  | 
-400000C0 | Ashen Estus Flask+1  | 
-400000C1 | Ashen Estus Flask+1  | 
-400000C2 | Ashen Estus Flask+2  | 
-400000C3 | Ashen Estus Flask+2  | 
-400000C4 | Ashen Estus Flask+3  | 
-400000C5 | Ashen Estus Flask+3  | 
-400000C6 | Ashen Estus Flask+4  | 
-400000C7 | Ashen Estus Flask+4  | 
-400000C8 | Ashen Estus Flask+5  | 
-400000C9 | Ashen Estus Flask+5  | 
-400000CA | Ashen Estus Flask+6  | 
-400000CB | Ashen Estus Flask+6  | 
-400000CC | Ashen Estus Flask+7  | 
-400000CD | Ashen Estus Flask+7  | 
-400000CE | Ashen Estus Flask+8  | 
-400000CF | Ashen Estus Flask+8  | 
-400000D0 | Ashen Estus Flask+9  | 
-400000D1 | Ashen Estus Flask+9  | 
-400000D2 | Ashen Estus Flask+10  | 
-400000D3 | Ashen Estus Flask+10  | 
-400000F0 | Divine Blessing  | 
-400000F1 | Hidden Blessing  | 
-400000F2 | Silver Pendant  | 
-40000104 | Green Blossom  | 
-~~40000105~~ | Budding Green Blossom  | 
-40000106 | Budding Green Blossom  | 
-4000010E | Bloodred Moss Clump  | 
-4000010F | Purple Moss Clump  | 
-40000110 | Blooming Purple Moss Clump  | 
-40000112 | Purging Stone  | 
-40000114 | Rime-blue Moss Clump  | 
-40000115 | Monastery Charm  | 
-40000118 | Repair Powder  | 
-40000122 | Kukri  | 
-40000124 | Firebomb  | 
-40000125 | Dung Pie  | 
-40000126 | Alluring Skull  | 
-40000128 | Undead Hunter Charm  | 
-40000129 | Black Firebomb  | 
-4000012B | Rope Firebomb  | 
-4000012C | Lightning Urn  | 
-4000012D | Holy Water Urn  | 
-4000012E | Rope Black Firebomb  | 
-4000012F | Stalk Dung Pie  | 
-40000130 | Duel Charm  | 
-40000136 | Throwing Knife  | 
-40000137 | Poison Throwing Knife  | 
-4000014A | Charcoal Pine Resin  | 
-4000014B | Gold Pine Resin  | 
-4000014E | Human Pine Resin  | 
-4000014F | Carthus Rouge  | 
-40000150 | Pale Pine Resin  | 
-40000154 | Charcoal Pine Bundle  | 
-40000155 | Gold Pine Bundle  | 
-40000157 | Rotten Pine Resin  | 
-4000015E | Homeward Bone  | 
-4000015F | Coiled Sword Fragment  | 
-4000016E | Wolf's Blood Swordgrass  | 
-4000016F | Human Dregs  | 
-40000170 | Forked Pale Tongue  | 
-40000171 | Proof of a Concord Well Kept  | 
-40000172 | Prism Stone  | 
-40000173 | Binoculars  | 
-40000174 | Proof of a Concord Kept  | 
-40000175 | Pale Tongue  | 
-40000176 | Vertebra Shackle  | 
-40000177 | Sunlight Medal  | 
-40000178 | Pendant  | 
-40000179 | Dragon Head Stone  | 
-4000017A | Dragon Torso Stone  | 
-4000017C | Rubbish  | 
-40000181 | Dried Finger  | 
-40000183 | Twinkling Dragon Head Stone  | 
-40000184 | Twinkling Dragon Torso Stone  | 
-40000186 | Fire Keeper Soul  | 
-40000190 | Fading Soul  | 
-40000191 | Soul of a Deserted Corpse  | 
-40000192 | Large Soul of a Deserted Corpse  | 
-40000193 | Soul of an Unknown Traveler  | 
-40000194 | Large Soul of an Unknown Traveler  | 
-40000195 | Soul of a Nameless Soldier  | 
-40000196 | Large Soul of a Nameless Soldier  | 
-40000197 | Soul of a Weary Warrior  | 
-40000198 | Large Soul of a Weary Warrior  | 
-40000199 | Soul of a Crestfallen Knight  | 
-4000019A | Large Soul of a Crestfallen Knight  | 
-4000019B | Soul of a Proud Paladin  | 
-4000019C | Large Soul of a Proud Paladin  | 
-4000019D | Soul of an Intrepid Hero  | 
-4000019E | Large Soul of an Intrepid Hero  | 
-4000019F | Soul of a Seasoned Warrior  | 
-400001A0 | Large Soul of a Seasoned Warrior  | 
-400001A1 | Soul of an Old Hand  | 
-400001A2 | Soul of a Venerable Old Hand  | 
-400001A3 | Soul of a Champion  | 
-400001A4 | Soul of a Great Champion  | 
-400001B8 | Seed of a Giant Tree  | 
-400001B9 | Spirit Amethyst  | 
-400001BA | Spirit Amethyst  | 
-400001C2 | Oozing Charm Berry  | 
-400001C3 | Oozing Flash Berry  | 
-400001C4 | Mossfruit  | 
-400001C5 | Brightbug  | 
-400001C6 | Young White Branch  | 
-400001C7 | Rusted Coin  | 
-400001C8 | Siegbräu  | 
-400001C9 | Rusted Gold Coin  | 
-400001CA | Blue Bug Pellet  | 
-400001CB | Red Bug Pellet  | 
-400001CC | Yellow Bug Pellet  | 
-400001CD | Black Bug Pellet  | 
-~~400001CE~~ | Young White Branch  | 
-400001CF | Young White Branch  | 
-400001EA | Dark Sigil  | 
-400001F4 | Ember  | 
-400001F5 | Ember  | 
-400001F6 | Ember  | 
-400001F7 | Ember  | 
-400001F8 | Ember  | 
-400001F9 | Ember  | 
-400001FA | Ember  | 
-400001FB | Ember  | 
-400001FC | Ember  | 
-400001FD | Ember  | 
-400001FE | Ember  | 
-40000208 | Hello Carving  | 
-40000209 | Thank you Carving  | 
-4000020A | Very good! Carving  | 
-4000020B | I'm sorry Carving  | 
-4000020C | Help me! Carving  | 
-400002C8 | Soul of Champion Gundyr  | 
-400002C9 | Soul of a Wicked Spirit  | 
-400002CA | Soul of the Dancer  | 
-400002CB | Soul of a Crystal Sage  | 
-400002CD | Soul of the Blood of the Wolf  | 
-400002CE | Soul of Consumed Oceiros  | 
-400002CF | Soul of Boreal Valley Vordt  | 
-400002D0 | Soul of the Old Demon King  | 
-400002D1 | Soul of Dragonslayer Armour  | 
-400002D2 | Soul of the Nameless King  | 
-400002D3 | Soul of the Great Bat  | 
-400002D4 | Soul of Pontiff Sulyvahn  | 
-400002D5 | Soul of Aldrich  | 
-400002D6 | Soul of High Lord Wolnir  | 
-400002D7 | Soul of the Rotted Greatwood  | 
-400002D8 | Soul of Rosaria  | 
-400002D9 | Soul of the Deacons of the Deep  | 
-400002DB | Soul of the Twin Princes  | 
-400002DC | Soul of Yhorm the Giant  | 
-400002DD | Soul of the Lords  | 
-400002E3 | Soul of a Demon  | 
-400002E6 | Soul of the Twin Princes  | 
-400002E7 | Soul of a Stray Demon  | 
-400003E8 | Titanite Shard  | 
-400003E9 | Large Titanite Shard  | 
-400003EA | Titanite Chunk  | 
+40000067 | Black Separation Crystal  |
+4000006C | Roster of Knights  |
+4000006F | Cracked Red Eye Orb  |
+40000073 | Black Eye Orb  |
+40000075 | Darksign  |
+40000077 | Way of White Circlet  |
+~~40000096~~ | Estus Flask  |
+40000097 | Estus Flask  |
+40000098 | Estus Flask+1  |
+40000099 | Estus Flask+1  |
+4000009A | Estus Flask+2  |
+4000009B | Estus Flask+2  |
+4000009C | Estus Flask+3  |
+4000009D | Estus Flask+3  |
+4000009E | Estus Flask+4  |
+4000009F | Estus Flask+4  |
+400000A0 | Estus Flask+5  |
+400000A1 | Estus Flask+5  |
+400000A2 | Estus Flask+6  |
+400000A3 | Estus Flask+6  |
+400000A4 | Estus Flask+7  |
+400000A5 | Estus Flask+7  |
+400000A6 | Estus Flask+8  |
+400000A7 | Estus Flask+8  |
+400000A8 | Estus Flask+9  |
+400000A9 | Estus Flask+9  |
+400000AA | Estus Flask+10  |
+400000AB | Estus Flask+10  |
+400000BE | Ashen Estus Flask  |
+400000BF | Ashen Estus Flask  |
+400000C0 | Ashen Estus Flask+1  |
+400000C1 | Ashen Estus Flask+1  |
+400000C2 | Ashen Estus Flask+2  |
+400000C3 | Ashen Estus Flask+2  |
+400000C4 | Ashen Estus Flask+3  |
+400000C5 | Ashen Estus Flask+3  |
+400000C6 | Ashen Estus Flask+4  |
+400000C7 | Ashen Estus Flask+4  |
+400000C8 | Ashen Estus Flask+5  |
+400000C9 | Ashen Estus Flask+5  |
+400000CA | Ashen Estus Flask+6  |
+400000CB | Ashen Estus Flask+6  |
+400000CC | Ashen Estus Flask+7  |
+400000CD | Ashen Estus Flask+7  |
+400000CE | Ashen Estus Flask+8  |
+400000CF | Ashen Estus Flask+8  |
+400000D0 | Ashen Estus Flask+9  |
+400000D1 | Ashen Estus Flask+9  |
+400000D2 | Ashen Estus Flask+10  |
+400000D3 | Ashen Estus Flask+10  |
+400000F0 | Divine Blessing  |
+400000F1 | Hidden Blessing  |
+400000F2 | Silver Pendant  |
+40000104 | Green Blossom  |
+~~40000105~~ | Budding Green Blossom  |
+40000106 | Budding Green Blossom  |
+4000010E | Bloodred Moss Clump  |
+4000010F | Purple Moss Clump  |
+40000110 | Blooming Purple Moss Clump  |
+40000112 | Purging Stone  |
+40000114 | Rime-blue Moss Clump  |
+40000115 | Monastery Charm  |
+40000118 | Repair Powder  |
+40000122 | Kukri  |
+40000124 | Firebomb  |
+40000125 | Dung Pie  |
+40000126 | Alluring Skull  |
+40000128 | Undead Hunter Charm  |
+40000129 | Black Firebomb  |
+4000012B | Rope Firebomb  |
+4000012C | Lightning Urn  |
+4000012D | Holy Water Urn  |
+4000012E | Rope Black Firebomb  |
+4000012F | Stalk Dung Pie  |
+40000130 | Duel Charm  |
+40000136 | Throwing Knife  |
+40000137 | Poison Throwing Knife  |
+4000014A | Charcoal Pine Resin  |
+4000014B | Gold Pine Resin  |
+4000014E | Human Pine Resin  |
+4000014F | Carthus Rouge  |
+40000150 | Pale Pine Resin  |
+40000154 | Charcoal Pine Bundle  |
+40000155 | Gold Pine Bundle  |
+40000157 | Rotten Pine Resin  |
+4000015E | Homeward Bone  |
+4000015F | Coiled Sword Fragment  |
+4000016E | Wolf's Blood Swordgrass  |
+4000016F | Human Dregs  |
+40000170 | Forked Pale Tongue  |
+40000171 | Proof of a Concord Well Kept  |
+40000172 | Prism Stone  |
+40000173 | Binoculars  |
+40000174 | Proof of a Concord Kept  |
+40000175 | Pale Tongue  |
+40000176 | Vertebra Shackle  |
+40000177 | Sunlight Medal  |
+40000178 | Pendant  |
+40000179 | Dragon Head Stone  |
+4000017A | Dragon Torso Stone  |
+4000017C | Rubbish  |
+40000181 | Dried Finger  |
+40000183 | Twinkling Dragon Head Stone  |
+40000184 | Twinkling Dragon Torso Stone  |
+40000186 | Fire Keeper Soul  |
+40000190 | Fading Soul  |
+40000191 | Soul of a Deserted Corpse  |
+40000192 | Large Soul of a Deserted Corpse  |
+40000193 | Soul of an Unknown Traveler  |
+40000194 | Large Soul of an Unknown Traveler  |
+40000195 | Soul of a Nameless Soldier  |
+40000196 | Large Soul of a Nameless Soldier  |
+40000197 | Soul of a Weary Warrior  |
+40000198 | Large Soul of a Weary Warrior  |
+40000199 | Soul of a Crestfallen Knight  |
+4000019A | Large Soul of a Crestfallen Knight  |
+4000019B | Soul of a Proud Paladin  |
+4000019C | Large Soul of a Proud Paladin  |
+4000019D | Soul of an Intrepid Hero  |
+4000019E | Large Soul of an Intrepid Hero  |
+4000019F | Soul of a Seasoned Warrior  |
+400001A0 | Large Soul of a Seasoned Warrior  |
+400001A1 | Soul of an Old Hand  |
+400001A2 | Soul of a Venerable Old Hand  |
+400001A3 | Soul of a Champion  |
+400001A4 | Soul of a Great Champion  |
+400001B8 | Seed of a Giant Tree  |
+400001B9 | Spirit Amethyst  |
+400001BA | Spirit Amethyst  |
+400001C2 | Oozing Charm Berry  |
+400001C3 | Oozing Flash Berry  |
+400001C4 | Mossfruit  |
+400001C5 | Brightbug  |
+400001C6 | Young White Branch  |
+400001C7 | Rusted Coin  |
+400001C8 | Siegbräu  |
+400001C9 | Rusted Gold Coin  |
+400001CA | Blue Bug Pellet  |
+400001CB | Red Bug Pellet  |
+400001CC | Yellow Bug Pellet  |
+400001CD | Black Bug Pellet  |
+~~400001CE~~ | Young White Branch  |
+400001CF | Young White Branch  |
+400001EA | Dark Sigil  |
+400001F4 | Ember  |
+400001F5 | Ember  |
+400001F6 | Ember  |
+400001F7 | Ember  |
+400001F8 | Ember  |
+400001F9 | Ember  |
+400001FA | Ember  |
+400001FB | Ember  |
+400001FC | Ember  |
+400001FD | Ember  |
+400001FE | Ember  |
+40000208 | Hello Carving  |
+40000209 | Thank you Carving  |
+4000020A | Very good! Carving  |
+4000020B | I'm sorry Carving  |
+4000020C | Help me! Carving  |
+400002C8 | Soul of Champion Gundyr  |
+400002C9 | Soul of a Wicked Spirit  |
+400002CA | Soul of the Dancer  |
+400002CB | Soul of a Crystal Sage  |
+400002CD | Soul of the Blood of the Wolf  |
+400002CE | Soul of Consumed Oceiros  |
+400002CF | Soul of Boreal Valley Vordt  |
+400002D0 | Soul of the Old Demon King  |
+400002D1 | Soul of Dragonslayer Armour  |
+400002D2 | Soul of the Nameless King  |
+400002D3 | Soul of the Great Bat  |
+400002D4 | Soul of Pontiff Sulyvahn  |
+400002D5 | Soul of Aldrich  |
+400002D6 | Soul of High Lord Wolnir  |
+400002D7 | Soul of the Rotted Greatwood  |
+400002D8 | Soul of Rosaria  |
+400002D9 | Soul of the Deacons of the Deep  |
+400002DB | Soul of the Twin Princes  |
+400002DC | Soul of Yhorm the Giant  |
+400002DD | Soul of the Lords  |
+400002E3 | Soul of a Demon  |
+400002E6 | Soul of the Twin Princes  |
+400002E7 | Soul of a Stray Demon  |
+400003E8 | Titanite Shard  |
+400003E9 | Large Titanite Shard  |
+400003EA | Titanite Chunk  |
 400003EB | Titanite Slab  | Ban-Warning, you can have only 8 in one play through!
-400003F2 | Dragon Scale  | 
-400003FC | Titanite Scale  | 
-40000406 | Twinkling Titanite  | 
-4000044C | Heavy Gem  | 
-40000456 | Sharp Gem  | 
-40000460 | Refined Gem  | 
-4000046A | Crystal Gem  | 
-40000474 | Simple Gem  | 
-4000047E | Fire Gem  | 
-40000488 | Chaos Gem  | 
-40000492 | Lightning Gem  | 
-4000049C | Deep Gem  | 
-400004A6 | Dark Gem  | 
-400004B0 | Poison Gem  | 
-400004BA | Blood Gem  | 
-400004C4 | Raw Gem  | 
-400004CE | Blessed Gem  | 
-400004D8 | Hollow Gem  | 
-400004E2 | Shriving Stone  | 
-400007D1 | Lift Chamber Key  | 
-400007D3 | Bridge Key  | 
-400007D4 | Iron Seal of the Wolf  | 
-400007D5 | Small Doll  | 
-400007D7 | Jailbreaker's Key  | 
-400007D8 | Jailer's Key Ring  | 
-400007D9 | Grave Key  | 
-400007DA | Cell Key  | 
-400007DB | Dungeon Ground Floor Key  | 
-400007DC | Old Cell Key  | 
-400007DD | Tower Key  | 
-400007DE | Grand Archives Key  | 
-400007DF | Tower Key  | 
-40000835 | Holy Remains  | 
-40000836 | Small Lothric Banner  | 
-40000837 | Farron Coal  | 
-40000838 | Sage's Coal  | 
-40000839 | Giant's Coal  | 
-4000083A | Profaned Coal  | 
-4000083B | Mortician's Ashes  | 
-4000083C | Dreamchaser's Ashes  | 
-4000083D | Paladin's Ashes  | 
-4000083E | Grave Warden's Ashes  | 
-4000083F | Greirat's Ashes  | 
-40000840 | Orbeck's Ashes  | 
-40000841 | Cornyx's Ashes  | 
-40000842 | Karla's Ashes  | 
-40000843 | Irina's Ashes  | 
-40000844 | Yuria's Ashes  | 
-40000845 | Basin of Vows  | 
-40000846 | Loretta's Bone  | 
-40000847 | Braille Divine Tome of Carim  | 
-40000848 | Braille Divine Tome of Lothric  | 
-40000849 | Braille Divine Sunlight Tome  | 
-4000084B | Cinders of a Lord  | 
-4000084C | Cinders of a Lord  | 
-4000084D | Cinders of a Lord  | 
-4000084E | Cinders of a Lord  | 
-4000084F | Great Swamp Pyromancy Tome  | 
-40000850 | Carthus Pyromancy Tome  | 
-40000851 | Izalith Pyromancy Tome  | 
-40000852 | Quelana Pyromancy Tome  | 
-40000853 | Grave Warden Pyromancy Tome  | 
-40000854 | Sage's Scroll  | 
-40000855 | Logan's Scroll  | 
-40000856 | Crystal Scroll  | 
-40000857 | Transposing Kiln  | 
-40000858 | Gwyndolin's Finger  | 
-40000859 | Coiled Sword  | 
-4000085A | Eyes of a Fire Keeper  | 
-4000085B | Sword of Avowal  | 
-4000085C | Golden Scroll  | 
-4000085D | Estus Shard  | 
-4000085E | Hawkwood's Swordgrass  | 
-4000085F | Undead Bone Shard  | 
-40000860 | Deep Braille Divine Tome  | 
-40000861 | Londor Braille Divine Tome  | 
-40000862 | Excrement-covered Ashes  | 
-40000863 | Prisoner Chief's Ashes  | 
-40000864 | Xanthous Ashes  | 
-40000865 | Hollow's Ashes  | 
-40000866 | Patches' Ashes  | 
-40000867 | Dragon Chaser's Ashes  | 
-40000868 | Easterner's Ashes  | 
+400003F2 | Dragon Scale  |
+400003FC | Titanite Scale  |
+40000406 | Twinkling Titanite  |
+4000044C | Heavy Gem  |
+40000456 | Sharp Gem  |
+40000460 | Refined Gem  |
+4000046A | Crystal Gem  |
+40000474 | Simple Gem  |
+4000047E | Fire Gem  |
+40000488 | Chaos Gem  |
+40000492 | Lightning Gem  |
+4000049C | Deep Gem  |
+400004A6 | Dark Gem  |
+400004B0 | Poison Gem  |
+400004BA | Blood Gem  |
+400004C4 | Raw Gem  |
+400004CE | Blessed Gem  |
+400004D8 | Hollow Gem  |
+400004E2 | Shriving Stone  |
+400007D1 | Lift Chamber Key  |
+400007D3 | Bridge Key  |
+400007D4 | Iron Seal of the Wolf  |
+400007D5 | Small Doll  |
+400007D7 | Jailbreaker's Key  |
+400007D8 | Jailer's Key Ring  |
+400007D9 | Grave Key  |
+400007DA | Cell Key  |
+400007DB | Dungeon Ground Floor Key  |
+400007DC | Old Cell Key  |
+400007DD | Tower Key  |
+400007DE | Grand Archives Key  |
+400007DF | Tower Key  |
+40000835 | Holy Remains  |
+40000836 | Small Lothric Banner  |
+40000837 | Farron Coal  |
+40000838 | Sage's Coal  |
+40000839 | Giant's Coal  |
+4000083A | Profaned Coal  |
+4000083B | Mortician's Ashes  |
+4000083C | Dreamchaser's Ashes  |
+4000083D | Paladin's Ashes  |
+4000083E | Grave Warden's Ashes  |
+4000083F | Greirat's Ashes  |
+40000840 | Orbeck's Ashes  |
+40000841 | Cornyx's Ashes  |
+40000842 | Karla's Ashes  |
+40000843 | Irina's Ashes  |
+40000844 | Yuria's Ashes  |
+40000845 | Basin of Vows  |
+40000846 | Loretta's Bone  |
+40000847 | Braille Divine Tome of Carim  |
+40000848 | Braille Divine Tome of Lothric  |
+40000849 | Braille Divine Sunlight Tome  |
+4000084B | Cinders of a Lord  |
+4000084C | Cinders of a Lord  |
+4000084D | Cinders of a Lord  |
+4000084E | Cinders of a Lord  |
+4000084F | Great Swamp Pyromancy Tome  |
+40000850 | Carthus Pyromancy Tome  |
+40000851 | Izalith Pyromancy Tome  |
+40000852 | Quelana Pyromancy Tome  |
+40000853 | Grave Warden Pyromancy Tome  |
+40000854 | Sage's Scroll  |
+40000855 | Logan's Scroll  |
+40000856 | Crystal Scroll  |
+40000857 | Transposing Kiln  |
+40000858 | Gwyndolin's Finger  |
+40000859 | Coiled Sword  |
+4000085A | Eyes of a Fire Keeper  |
+4000085B | Sword of Avowal  |
+4000085C | Golden Scroll  |
+4000085D | Estus Shard  |
+4000085E | Hawkwood's Swordgrass  |
+4000085F | Undead Bone Shard  |
+40000860 | Deep Braille Divine Tome  |
+40000861 | Londor Braille Divine Tome  |
+40000862 | Excrement-covered Ashes  |
+40000863 | Prisoner Chief's Ashes  |
+40000864 | Xanthous Ashes  |
+40000865 | Hollow's Ashes  |
+40000866 | Patches' Ashes  |
+40000867 | Dragon Chaser's Ashes  |
+40000868 | Easterner's Ashes  |
 40002328 | Beckon  |  Gestures can't be picked up!
 40002329 | Point forward  | Gestures can't be picked up!
 4000232A | Hurrah!  | Gestures can't be picked up!
