@@ -50,7 +50,7 @@ http://www.cheatengine.org/
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](#how-to-spawnswap-items)
-* Item IDs
+* [Item IDs](#item-ids)
   * [Importent ID's Information!](#importent-ids-information)
   * [Goods](#goods-407) (407)
   * [Weapons](#weapons-2831) (2831)
@@ -424,7 +424,7 @@ Id       | Name                                                | Note
 40000073 | Black Eye Orb  |
 40000075 | Darksign  |
 40000077 | Way of White Circlet  |
-~~40000096~~ | Estus Flask  |
+40000096 | Estus Flask  |
 40000097 | Estus Flask  |
 40000098 | Estus Flask+1  |
 40000099 | Estus Flask+1  |
