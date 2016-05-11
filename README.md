@@ -132,7 +132,7 @@ As long you are [offline](#offline-mode), you are safe. All temporery changes(un
 ##### 3. Safe to use
 - Unlimited iFrame/HP/Stamina and FP (online)
 - Spawn tradable items (offline)
-- Spawn usble items and use them before you go back online. (offline) (example: spawn Titanite Slab to upgrade your weapon before you gone back online, should be safe)
+- Spawn usble items and use them before you go back online. (offline) (example: spawn Titanite Slab to upgrade your weapon before you go back online, should be safe)
 - Spawn soul items and use them to increase your souls amount (offline)
 - Realistic modification of character stats (risky,offline) (example:increase STR +1 and decrease INT for -1)
 
@@ -311,6 +311,7 @@ There is no VAC in Dark Souls 3!
 
 #### Features stop working after a while
 This is the work of the [Anti-Cheat](#anti-cheat) system. At the moment you need the Anti-AntiCheat feature to fix this problem.  
+As workaround for unlimited HP/Stamina/FP, you can use "Hero" pointer to freeze "current" values. But you will still die if something one hot you.
 
 ## Feature Explanation
 
