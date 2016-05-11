@@ -104,7 +104,7 @@ If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#me
 
 ##### Nothing is 100% safe, cheating is always a risk! Do it on your own liability!
 
-#### Generelly
+##### Generelly
 As long you are [offline](#offline-mode) you are safe. All temporery changes(unlimited stuff like HP/Stamina/FP/iFrame) that don't stay in your save game are also safe. If you do something that can cause a ban, you can undo it before you go back online.
 
 ##### 1. Makes your save game "Invalid"
