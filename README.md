@@ -133,7 +133,7 @@ As long you are [offline](#offline-mode), you are safe. All temporery changes(un
 - Anything else that is not listed in the guide.
 
 ##### 3. Safe to use
-- Unlimited iFrame/HP/Stamina and FP (online)
+- Unlimited iFrame/HP/Stamina and FP (offline) (at the moment we are not sure if it safe to use online)
 - Spawn tradable items (offline)
 - Spawn usble items and use them before you go back online. (offline) (example: spawn Titanite Slab to upgrade your weapon before you go back online, should be safe)
 - Spawn soul items and use them to increase your souls amount (offline)
