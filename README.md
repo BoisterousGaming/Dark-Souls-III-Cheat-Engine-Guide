@@ -116,6 +116,7 @@ As long you are [offline](#offline-mode), you are safe. All temporery changes(un
 - Swapping items directly in your inventory
 - Got more than 8 Titanite Slab in NG (You can collect max 8 per play through)
 - Unlock all bonfires (with CE)
+- Unlimited consumbles while online
 
 ##### 2. Risky
 - Directly change ember amount
