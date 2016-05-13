@@ -16,7 +16,7 @@
 #include <InetConstants.au3>
 #include <Array.au3>
 
-Global Const $LATEST_GAME_VERSION = "1.04"
+Global Const $LATEST_GAME_VERSION = "1.04.1"
 Global Const $LATEST_VERSION_PATH = @ScriptDir & "\Tables\"
 Global Const $POSTFIX = ".CT"
 
